@@ -1,0 +1,19 @@
+{
+	"posts": {
+		"3": {
+			"document": "how-i-git.md",
+			"title": "How I git",
+			"date": "2013-08-21"
+		},
+		"2": {
+			"document": "on-progressive-enhancement.md",
+			"title": "On Progressive Enhancement, Responsive Design, and IE",
+			"date": "2013-04-03"
+		},
+		"1": {
+			"document": "the-shifting-mobile-landscape.md",
+			"title": "The Shifting Mobile Landscape",
+			"date": "2012-06-13"
+		}
+	}
+}
