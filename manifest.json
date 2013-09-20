@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"4": {
+			"document": "small-reusable-components.md",
+			"title": "Small, Reusable Components",
+			"date": "2013-09-20"
+		},
 		"3": {
 			"document": "how-i-git.md",
 			"title": "How I git",
