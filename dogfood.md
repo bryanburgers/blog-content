@@ -1,8 +1,8 @@
 I've been writing my own service, [Score Lab](http://www.scorelab.co), for
 sports schedules, scoring, and standings for nearly a year now. Just recently,
 I had the opportunity to use try it out on a real competition, the [Click Rain
-Bake-Off](http://clickrain.scorelab.co/2013-bake-off) and the process has been
-incredible for usability.
+Bake-Off](http://clickrain.scorelab.co/2013-bake-off), and the process has
+been incredible for usability.
 
 I wrote much of Score Lab anticipating the needs of my future clients, and
 trying everything out with test data. However, actually using the site with
