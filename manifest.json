@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"6": {
+			"document": "three-tier-architecture.md",
+			"title": "Score Lab's Three-Tier Architecture",
+			"date": "2013-10-11"
+		},
 		"5": {
 			"document": "dogfood.md",
 			"title": "Using One's Own Products",
