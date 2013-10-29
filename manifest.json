@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"7": {
+			"document": "tdd-for-parents.md",
+			"title": "Test-Driven Development: for Parents",
+			"date": "2013-10-29"
+		},
 		"6": {
 			"document": "three-tier-architecture.md",
 			"title": "Score Lab's Three-Tier Architecture",
