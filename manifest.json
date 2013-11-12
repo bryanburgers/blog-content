@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"8": {
+			"document": "tip-of-the-iceberg.md",
+			"title": "The Tip of the Iceberg",
+			"date": "2013-11-11"
+		},
 		"7": {
 			"document": "tdd-for-parents.md",
 			"title": "Test-Driven Development: for Parents",
