@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"9": {
+			"document": "five-year-plan.md",
+			"title": "Five-Year Plan",
+			"date": "2013-11-22"
+		},
 		"8": {
 			"document": "tip-of-the-iceberg.md",
 			"title": "The Tip of the Iceberg",
