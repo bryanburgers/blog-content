@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"10": {
+			"document": "stick-with-it.md",
+			"title": "Stick With It",
+			"date": "2013-11-25"
+		},
 		"9": {
 			"document": "five-year-plan.md",
 			"title": "Five-Year Plan",
