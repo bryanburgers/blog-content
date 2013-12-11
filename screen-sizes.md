@@ -208,16 +208,16 @@ histogram.
 	<rect x="788" y="199.9812" width="4" height="0.0188" />
 	<rect x="792" y="199.9831" width="4" height="0.0169" />
 	<rect x="796" y="199.9839" width="4" height="0.0161" />
-	<text x="128" y="220">320</text>
-	<text x="256" y="220">640</text>
-	<text x="384" y="220">960</text>
-	<text x="512" y="220">1280</text>
-	<text x="640" y="220">1600</text>
-	<text x="768" y="220">1920</text>
+	<text x="130" y="220">320</text>
+	<text x="258" y="220">640</text>
+	<text x="386" y="220">960</text>
+	<text x="514" y="220">1280</text>
+	<text x="642" y="220">1600</text>
+	<text x="770" y="220">1920</text>
 	<g fill="red">
-	<text x="408" y="240">1024</text>
-	<text x="512" y="240">1280</text>
-	<text x="544" y="240">1366</text>
+	<text x="410" y="240">1024</text>
+	<text x="514" y="240">1280</text>
+	<text x="550" y="240">1366</text>
 	</g>
 </svg>
 
