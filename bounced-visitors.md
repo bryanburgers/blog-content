@@ -1,7 +1,7 @@
 I recently created a landing page for a [Score Lab](http://www.scorelab.co)
 PPC campaign where potential customers either convert or bounce.
 
-If a customer converts, *horray!*, I throw a little party in my head.
+If a customer converts, *hooray!*, I throw a little party in my head.
 
 But most potential customers, unsurprisingly, don't convert. And while I wish
 all of the visitors would convert, it's not a terrible thing for them to
