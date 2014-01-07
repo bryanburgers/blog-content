@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"13": {
+			"document": "cache-busting-in-node.md",
+			"title": "Cache-Busting in Node.js",
+			"date": "2014-01-07"
+		},
 		"12": {
 			"document": "bounced-visitors.md",
 			"title": "Tracking Bounces with Google Analytics",
