@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"14": {
+			"document": "mobile-growth-revisited.md",
+			"title": "Mobile Growth, Revisited",
+			"date": "2014-01-09"
+		},
 		"13": {
 			"document": "cache-busting-in-node.md",
 			"title": "Cache-Busting in Node.js",
