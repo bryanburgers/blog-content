@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"16": {
+			"document": "inline-svg-with-jquery.md",
+			"title": "Inline SVG with jQuery",
+			"date": "2014-01-27"
+		},
 		"15": {
 			"document": "more-thoughts-on-mobile-browsing.md",
 			"title": "More Thoughts on Mobile Browsing",
