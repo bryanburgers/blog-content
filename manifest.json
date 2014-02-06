@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"17": {
+			"document": "excluding-myself.md",
+			"title": "Excluding Myself from Google Analytics",
+			"date": "2014-02-06"
+		},
 		"16": {
 			"document": "inline-svg-with-jquery.md",
 			"title": "Inline SVG with jQuery",
