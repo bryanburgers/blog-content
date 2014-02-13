@@ -1,5 +1,14 @@
 {
 	"posts": {
+		"18": {
+			"document": "baby-fox-goes-camping.md",
+			"title": "Baby Fox Goes Camping",
+			"date": "2014-02-12",
+			"meta": {
+				"og:image": "/images/baby-fox/og-1200x650.png",
+				"twitter:image": "http://www.burgers.io/images/baby-fox/og-200x200.png"
+			}
+		},
 		"17": {
 			"document": "excluding-myself.md",
 			"title": "Excluding Myself from Google Analytics",
