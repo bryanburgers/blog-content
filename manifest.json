@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"19": {
+			"document": "responsive-images.md",
+			"title": "Responsive Images using Picturefill",
+			"date": "2014-02-23"
+		},
 		"18": {
 			"document": "baby-fox-goes-camping.md",
 			"title": "Baby Fox Goes Camping",
