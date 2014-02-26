@@ -1,5 +1,10 @@
 {
 	"posts": {
+		"20": {
+			"document": "each-scoping.md",
+			"title": "Each-Scoping in jQuery",
+			"date": "2014-02-26"
+		},
 		"19": {
 			"document": "responsive-images.md",
 			"title": "Responsive Images using Picturefill",
