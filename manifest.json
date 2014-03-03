@@ -1,16 +1,19 @@
 {
 	"posts": {
 		"20": {
+			"slug": "each-scoping-in-jquery",
 			"document": "each-scoping.md",
 			"title": "Each-Scoping in jQuery",
 			"date": "2014-02-26"
 		},
 		"19": {
+			"slug": "responsive-images-using-picturefill",
 			"document": "responsive-images.md",
 			"title": "Responsive Images using Picturefill",
 			"date": "2014-02-23"
 		},
 		"18": {
+			"slug": "baby-fox-goes-camping",
 			"document": "baby-fox-goes-camping.md",
 			"title": "Baby Fox Goes Camping",
 			"date": "2014-02-12",
@@ -20,86 +23,103 @@
 			}
 		},
 		"17": {
+			"slug": "excluding-myself-from-google-analytics",
 			"document": "excluding-myself.md",
 			"title": "Excluding Myself from Google Analytics",
 			"date": "2014-02-06"
 		},
 		"16": {
+			"slug": "inline-svg-with-jquery",
 			"document": "inline-svg-with-jquery.md",
 			"title": "Inline SVG with jQuery",
 			"date": "2014-01-27"
 		},
 		"15": {
+			"slug": "more-thoughts-on-mobile-browsing",
 			"document": "more-thoughts-on-mobile-browsing.md",
 			"title": "More Thoughts on Mobile Browsing",
 			"date": "2014-01-15"
 		},
 		"14": {
+			"slug": "mobile-growth-revisited",
 			"document": "mobile-growth-revisited.md",
 			"title": "Mobile Growth, Revisited",
 			"date": "2014-01-09"
 		},
 		"13": {
+			"slug": "cache-busting-in-node",
 			"document": "cache-busting-in-node.md",
 			"title": "Cache-Busting in Node.js",
 			"date": "2014-01-07"
 		},
 		"12": {
+			"slug": "tracking-bounces-with-google-analytics",
 			"document": "bounced-visitors.md",
 			"title": "Tracking Bounces with Google Analytics",
 			"date": "2014-01-02"
 		},
 		"11": {
+			"slug": "screen-size-histogram",
 			"document": "screen-sizes.md",
 			"title": "Screen-Size Histogram",
 			"date": "2013-12-11"
 		},
 		"10": {
+			"slug": "stick-with-it",
 			"document": "stick-with-it.md",
 			"title": "Stick With It",
 			"date": "2013-11-25"
 		},
 		"9": {
+			"slug": "five-year-plan",
 			"document": "five-year-plan.md",
 			"title": "Five-Year Plan",
 			"date": "2013-11-22"
 		},
 		"8": {
+			"slug": "tip-of-the-iceberg",
 			"document": "tip-of-the-iceberg.md",
 			"title": "The Tip of the Iceberg",
 			"date": "2013-11-11"
 		},
 		"7": {
+			"slug": "test-driven-development-for-parents",
 			"document": "tdd-for-parents.md",
 			"title": "Test-Driven Development: for Parents",
 			"date": "2013-10-29"
 		},
 		"6": {
+			"slug": "score-lab-three-tier-architecture",
 			"document": "three-tier-architecture.md",
 			"title": "Score Lab's Three-Tier Architecture",
 			"date": "2013-10-11"
 		},
 		"5": {
+			"slug": "using-ones-own-products",
 			"document": "dogfood.md",
 			"title": "Using One's Own Products",
 			"date": "2013-09-25"
 		},
 		"4": {
+			"slug": "small-reusable-components",
 			"document": "small-reusable-components.md",
 			"title": "Small, Reusable Components",
 			"date": "2013-09-20"
 		},
 		"3": {
+			"slug": "how-i-git",
 			"document": "how-i-git.md",
 			"title": "How I git",
 			"date": "2013-08-21"
 		},
 		"2": {
+			"slug": "on-progressive-enhancement-responsive-design-and-ie",
 			"document": "on-progressive-enhancement.md",
 			"title": "On Progressive Enhancement, Responsive Design, and IE",
 			"date": "2013-04-03"
 		},
 		"1": {
+			"slug": "the-shifting-mobile-landscape",
 			"document": "the-shifting-mobile-landscape.md",
 			"title": "The Shifting Mobile Landscape",
 			"date": "2012-06-13"
