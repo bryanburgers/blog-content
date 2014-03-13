@@ -1,5 +1,14 @@
 {
 	"posts": {
+		"21": {
+			"slug": "introducing-switch",
+			"document": "introducing-switch.md",
+			"title": "Introducing Switch",
+			"date": "2014-03-13",
+			"meta": {
+				"twitter:image": "http://www.burgers.io/images/switch/og-200x200.png"
+			}
+		},
 		"20": {
 			"slug": "each-scoping-in-jquery",
 			"document": "each-scoping.md",
