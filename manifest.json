@@ -1,5 +1,15 @@
 {
 	"posts": {
+		"22": {
+			"slug": "playing-2048-with-code",
+			"document": "playing-2048-with-code.md",
+			"title": "Playing 2048 with Code",
+			"date": "2014-04-01",
+			"meta": {
+				"og:image": "/images/2048/og-1200x650.png",
+				"twitter:image": "http://www.burgers.io/images/2048/og-200x200.png"
+			}
+		},
 		"21": {
 			"slug": "introducing-switch",
 			"document": "introducing-switch.md",
