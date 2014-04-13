@@ -6,7 +6,7 @@
 			"title": "Playing 2048 with Code",
 			"date": "2014-04-01",
 			"meta": {
-				"og:image": "/images/2048/og-1200x650.png",
+				"og:image": "http://www.burgers.io/images/2048/og-1200x650.png",
 				"twitter:image": "http://www.burgers.io/images/2048/og-200x200.png"
 			}
 		},
@@ -37,7 +37,7 @@
 			"title": "Baby Fox Goes Camping",
 			"date": "2014-02-12",
 			"meta": {
-				"og:image": "/images/baby-fox/og-1200x650.png",
+				"og:image": "http://www.burgers.io/images/baby-fox/og-1200x650.png",
 				"twitter:image": "http://www.burgers.io/images/baby-fox/og-200x200.png"
 			}
 		},
