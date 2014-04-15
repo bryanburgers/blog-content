@@ -41,7 +41,7 @@ all about an old one. Which means I won't remember why I made a change a year
 from now. Or a month. Or – let's face it – even tomorrow.
 
 So I write my git commit messages today with good communication in mind,
-knowing that that I can read them in the future and actually know why a change
+knowing that I can read them in the future and actually know why a change
 was made or get a refresher on what has been done.
 
 It's a little gift to future me.
@@ -67,7 +67,7 @@ would have wanted from a pull request. So I like to think so.
 
 ## This sounds like work
 
-This does take work. But it pays off. Creating logical commits and writing a
+This does take work. But it pays off. Creating logical commits and writing
 clear commit messages *now* reduces the mental effort I need to do *later*
 when maintaining code. It makes life easier for everybody who is involved in
 the project.
