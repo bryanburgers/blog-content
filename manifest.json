@@ -1,5 +1,15 @@
 {
 	"posts": {
+		"23": {
+			"slug": "git-is-a-communication-tool",
+			"document": "git-is-a-communication-tool.md",
+			"title": "Git is a Communication Tool",
+			"date": "2014-04-15",
+			"meta": {
+				"og:image": "http://www.burgers.io/images/communication/og-1200x650.jpg",
+				"twitter:image": "http://www.burgers.io/images/communication/og-200x200.jpg"
+			}
+		},
 		"22": {
 			"slug": "playing-2048-with-code",
 			"document": "playing-2048-with-code.md",
