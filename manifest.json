@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"25": {
+			"slug": "why-i-built-its5",
+			"document": "why-i-built-its5.md",
+			"title": "Why I Built It: its5.info",
+			"date": "2014-05-20T07:06-05:00",
+			"shortDescription": "It's 5 o'clock somewhere, they say. But where? The story of why I built its5.info",
+			"longDescription": "On a cold day in late March, 2014, someone just trotted out the old phrase, \"It's 5 o'clock somewhere,\" and I immediately wondered where? That's when I had the idea to build a website that tells me where in the world it's 5 pm.",
+			"meta": {
+				"og:image": "http://www.burgers.io/images/its5/og-1200x650.png",
+				"twitter:image": "http://www.burgers.io/images/its5/og-200x200.png"
+			}
+		},
 		"24": {
 			"slug": "responsive-images-without-the-cruft",
 			"document": "responsive-images-without-the-cruft.md",
