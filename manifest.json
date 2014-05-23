@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"26": {
+			"slug": "its5-the-spambot",
+			"document": "its5-the-spambot.md",
+			"title": "Oops I created a Spambot",
+			"date": "2014-05-23T06:42-05:00",
+			"shortDescription": "\"Build it and they will come\" doesn't work on the internet, but Twitter provided a world of opportunity for its5.info.",
+			"longDescription": "\"Build it and they will come\" doesn't work on the internet. its5.info needed a strategy. There were several options I knew wouldn't work. But Twitter provided a world of opportunity.",
+			"meta": {
+				"og:image": "http://www.burgers.io/images/its5/og-1200x650.png",
+				"twitter:image": "http://www.burgers.io/images/its5/og-200x200.png"
+			}
+		},
 		"25": {
 			"slug": "why-i-built-its5",
 			"document": "why-i-built-its5.md",
