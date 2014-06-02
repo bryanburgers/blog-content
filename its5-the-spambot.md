@@ -44,4 +44,4 @@ But at least [I had fun building it][why].
 [tw]: https://twitter.com/its5info
 [8am]: http://www.its5.info/@2014-05-16T13:00Z
 [joy]: /why-i-built-its5#joy-to-the-world
-[why]: /why-i-build-its5
+[why]: /why-i-built-its5
