@@ -109,7 +109,13 @@
 			"slug": "cache-busting-in-node",
 			"document": "cache-busting-in-node.md",
 			"title": "Cache-Busting in Node.js",
-			"date": "2014-01-07T12:33-06:00"
+			"date": "2014-01-07T12:33-06:00",
+			"shortDescription": "Far-future cache headers are important, sure, but how do you bust the cache in Node when an asset changes?",
+			"longDescription": "Far-future cache headers are important for the performance of a site. But they also require the the ability to bust the cache when an asset changes. But how do you do that in Node.js?",
+			"meta": {
+				"og:image": "http://www.burgers.io/images/cache-busting/og-1200x650.jpg",
+				"twitter:image": "http://www.burgers.io/images/cache-busting/og-200x200.jpg"
+			}
 		},
 		"12": {
 			"slug": "tracking-bounces-with-google-analytics",
