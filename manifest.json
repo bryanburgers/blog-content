@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"27": {
+			"slug": "release-cycles",
+			"document": "release-cycles.md",
+			"title": "Release Cycles",
+			"date": "2014-06-20T12:28-05:00",
+			"shortDescription": "Changes on the web are instantaneous. Changes to an iPhone app are not. How that difference affects the design of an app.",
+			"longDescription": "I work on the internet, where I mostly build and maintain websites. Changes on the web are instantaneous. But recently, I worked on an iPhone app where this isn't the case. And it got me thinking about release cycles and their impact.",
+			"meta": {
+				"og:image": "http://www.burgers.io/images/release-cycles/og-1200x650.jpg",
+				"twitter:image": "http://www.burgers.io/images/release-cycles/og-200x200.jpg"
+			}
+		},
 		"26": {
 			"slug": "its5-the-spambot",
 			"document": "its5-the-spambot.md",
