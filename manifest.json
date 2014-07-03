@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"28": {
+			"slug": "squashing-commits",
+			"document": "squashing-commits.md",
+			"title": "Squashing Commits",
+			"date": "2014-07-03T07:19-05:00",
+			"shortDescription": "Your git history can read like a rambling stream-of-consciousness tome or a sharp-witted novella. Do us all a favor and squash your commits.",
+			"longDescription": "Your git history is like a book. It can read like a rambling stream-of-consciousness tome. Or you can squash your commits to read like a sharp-witted novella. Do us all a favor and squash your commits."
+		},
 		"27": {
 			"slug": "release-cycles",
 			"document": "release-cycles.md",
