@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"29": {
+			"slug": "on-development-decisions",
+			"document": "on-development-decisions.md",
+			"title": "On Development Decisions",
+			"date": "2014-08-11T07:18-05:00",
+			"shortDescription": "Black and white. Good and bad. The right way and the wrong way. It would be great if web development fell into nice neat little categories. It doesn't.",
+			"longDescription": "Black and white. Good and bad. The right way and the wrong way. It would be great if web development fell into nice neat little categories. It doesn't.",
+			"meta": {
+				"og:image": "http://www.burgers.io/images/on-development-decisions/og-1200x650.png",
+				"twitter:image": "http://www.burgers.io/images/on-development-decisions/og-200x200.png"
+			}
+		},
 		"28": {
 			"slug": "squashing-commits",
 			"document": "squashing-commits.md",

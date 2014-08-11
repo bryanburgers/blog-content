@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+
+
+<canvas id="canvas"></canvas>
+
+<script>
+var WIDTH=1200;
+var HEIGHT=650;
+var SIZE=50;
+var SIZEX=WIDTH/SIZE;
+var SIZEY=HEIGHT/SIZE;
+var INDEX=diagonal;
+var RAND=0.12;
+
+var canvas = document.getElementById('canvas');
+var ctx = canvas.getContext('2d');
+
+function linear(x, y) {
+	return x/(SIZEX - 1);
+}
+
+function diagonal(x, y) {
+	return (x/(SIZEX - 1) + y/(SIZEY - 1))/2;
+}
+
+function toColor(c) {
+	var clamped = Math.max(0, Math.min(1, c));
+	var r = Math.round(c*255);
+	return 'rgb(' + r + ', ' + r + ',' + r + ')';
+}
+
+function generate() {
+	canvas.setAttribute('width', WIDTH);
+	canvas.setAttribute('height', HEIGHT);
+	ctx.fillStyle = 'rgba(255, 0, 0)';
+	ctx.fillRect(0, 0, WIDTH, HEIGHT);
+
+	for (var x = 0; x < SIZEX; x++) {
+		for (var y = 0; y < SIZEY; y++) {
+			var color = INDEX(x, y);
+			color = color + ((Math.random() * RAND) - RAND/2);
+			ctx.fillStyle = toColor(color);
+			var left = x * SIZE;
+			var top = y * SIZE;
+			ctx.fillRect(left, top, SIZE, SIZE);
+		}
+	}
+}
+
+generate();
+</script>
+</html>
