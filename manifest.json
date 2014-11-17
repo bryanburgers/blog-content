@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"31": {
+			"slug": "cache-busting-in-expressionengine",
+			"document": "cache-busting-in-expressionengine.md",
+			"title": "Cache-Busting CSS and JavaScript in ExpressionEngine",
+			"date": "2014-11-17T17:04-06:00",
+			"shortDescription": "Far-future cache headers are important, sure, but how do you bust the cache in ExpressionEngine when an asset changes?",
+			"longDescription": "Far-future cache headers are important for the performance of a site. But they also require the the ability to bust the cache when an asset changes. But how do you do that in ExpressionEngine?",
+			"meta": {
+				"og:image": "http://www.burgers.io/images/cache-busting/og-1200x650.jpg",
+				"twitter:image": "http://www.burgers.io/images/cache-busting/og-200x200.jpg"
+			}
+		},
 		"30": {
 			"slug": "introducing-max-length",
 			"document": "introducing-max-length.md",
