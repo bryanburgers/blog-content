@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"32": {
+			"slug": "the-plugin-your-first-expressionengine-addon",
+			"document": "first-plugin.md",
+			"title": "The Plugin: Your First ExpressionEngine Add-On",
+			"date": "2015-01-18T14:01-06:00",
+			"shortDescription": "Writing an ExpressionEngine Add-On can be daunting. But the Plugin is a no-nonsense, easy place to start.",
+			"longDescription": "Writing an ExpressionEngine Add-On can be daunting. But the Plugin is a no-nonsense, easy place to start.",
+			"meta": {
+				"og:image": "https://burgers.io/images/first-plugin/og-1200x650.jpg",
+				"twitter:image": "https://burgers.io/images/first-plugin/og-200x200.jpg"
+			}
+		},
 		"31": {
 			"slug": "cache-busting-in-expressionengine",
 			"document": "cache-busting-in-expressionengine.md",
