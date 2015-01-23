@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"33": {
+			"slug": "from-trello-to-twitter",
+			"document": "from-trello-to-twitter.md",
+			"title": "From Trello to Twitter",
+			"date": "2015-01-23T12:19-06:00",
+			"shortDescription": "How I use Trello to organize my upcoming Twitter tweets.",
+			"longDescription": "After reading \"Trello as a CMS,\" I was inspired to automate my tweets from a Trello board.",
+			"meta": {
+				"og:image": "https://burgers.io/images/from-trello-to-twitter/og-1200x650.jpg",
+				"twitter:image": "https://burgers.io/images/from-trello-to-twitter/og-200x200.png"
+			}
+		},
 		"32": {
 			"slug": "the-plugin-your-first-expressionengine-addon",
 			"document": "first-plugin.md",
