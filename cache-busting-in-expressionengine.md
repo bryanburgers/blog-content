@@ -15,7 +15,7 @@ building in ExpressionEngine?
 We'll start here. We've created our assets the usual way, and we just include
 them into our template directly the way that HTML expects.
 
-```
+```html
 <link rel="stylesheet" href="/css/style.css">
 <script src="/js/script.js"></script>
 ```
@@ -36,7 +36,7 @@ cache-busting.
 
 The HTML doesn't change much, just add a few dates to the URL.
 
-```
+```html
 <link rel="stylesheet" href="/css/style.20141117.css">
 <script src="/js/script.20141117.js"></script>
 ```
@@ -70,7 +70,7 @@ We use a plugin called [Buster][buster] to automatically generate a
 cache-busting URL. But instead of using the date, it instead uses the SHA1 of
 the file for various reasons.
 
-```
+```html
 <link rel="stylesheet" href="{exp:buster href='/css/style.css'}">
 <script src="{exp:buster src='/js/script.js'}"></script>
 ```

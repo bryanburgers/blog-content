@@ -57,7 +57,7 @@ rewrite published history.)
 
 So how do you use this?
 
-```
+```shell
 $ git rebase -i SOME_PREVIOUS_COMMIT
 ```
 
@@ -75,7 +75,7 @@ If you frequently use feature branches, the squash merge may be for you. A
 squash merge works like a normal merge: you're on the `master` branch, and you
 want to merge in changes from the `feature/confirm-request` branch.
 
-```
+```shell
 $ git checkout master
 $ git merge --squash feature/confirm-request
 ```
