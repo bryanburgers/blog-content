@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"35": {
+			"slug": "stash-layouts",
+			"document": "stash-layouts.md",
+			"title": "Stash Layouts",
+			"date": "2015-02-05T06:04-06:00",
+			"shortDescription": "Stash is a powerful tool for templating in ExpressionEngine. Used the right way, it can improve the readability of templates.",
+			"longDescription": "Stash is a powerful tool for templating in ExpressionEngine. Used the right way, it can improve the readability of templates. Used the wrong way, it can make a mess of things."
+		},
 		"34": {
 			"slug": "above-the-fold-breaking-the-rules",
 			"document": "above-the-fold-breaking-the-rules.md",
