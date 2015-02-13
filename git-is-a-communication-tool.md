@@ -25,8 +25,8 @@ I don't do it to be a jerk. (I hope my coworkers don't think I do it to be a
 jerk.) I do it because it's the most accurate way to communicate what I did.
 
 But for that to be an effective form of communication, every commit has to
-make sense. Tell a story. Communicate clearly and concisely exactly what was
-done. No more, no less.
+make sense. [Tell a story.][squashingcommits] Communicate clearly and
+concisely exactly what was done. No more, no less.
 
 ## Future me
 
@@ -82,3 +82,4 @@ So take the time. Learn to use git not only as a code repository, but also as
 a communication tool. Then, communicate well.
 
 [pfcommit]: https://github.com/scottjehl/picturefill/commit/e8d7f32d7d5f9685451a9ca06a976de1789202db
+[squashingcommits]: /squashing-commits
