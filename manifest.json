@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"36": {
+			"slug": "configuration-is-not-code",
+			"document": "configuration-is-not-code.md",
+			"title": "Configuration is Not Code",
+			"date": "2015-02-13T07:08-06:00",
+			"shortDescription": "Configuration does not belong in the database. We've known this for years. But configuration also does not belong in git.",
+			"longDescription": "Configuration does not belong in the database. We've known this for years. But configuration also does not belong in git."
+		},
 		"35": {
 			"slug": "stash-layouts",
 			"document": "stash-layouts.md",
