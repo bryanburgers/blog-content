@@ -35,10 +35,10 @@ even a 4-inch mobile one.
 Four years ago, before I had the internet on my phone, I was talking to a
 friend who did. He said, "Don't bother, it's not worth it: it sucks."
 
-Four years ago, his viewport was probably valid. Companies either had no mobile
-website that rendered terribly on whatever random pre-iPhone device he had, or
-the mobile websites were a page or two with as little information as possible.
-That was the status quo.
+Four years ago, his viewpoint was probably valid. Companies either had no
+mobile website that rendered terribly on whatever random pre-iPhone device he
+had, or the mobile websites were a page or two with as little information as
+possible. That was the status quo.
 
 And so, users were conditioned to think that they could use the "mobile web"
 for fast information, but if they wanted any real meat, they'd need to a
