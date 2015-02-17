@@ -8,7 +8,14 @@ But configuration also does not belong in git. Just like there should be a separ
 >
 > —[The Twelve Factor App][12factor]
 
-There are many good reasons why configuration should not be tracked.
+_Clarification:_ "Configuration" can mean different things. What I'm talking about here is database logins, API keys, usernames, passwords, etc.; things that vary between environments.
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/bryanburgers">@bryanburgers</a> You’re saying “configuration” when I think you mean unique environment variables. Lots of config should be checked-in. <a href="https://twitter.com/hashtag/eecms?src=hash">#eecms</a></p>&mdash; Kevin Smith (@_KevinSmith) <a href="https://twitter.com/_KevinSmith/status/567780035994857472">February 17, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Master Config's [config.master.php][master], on the other hand, _should_ be checked in because Master Config is written so that the settings in this file do not vary between environments.
+
+There are many good reasons why configuration – things that change between environments – should not be tracked.
 
 1.    **Secrets stay secret**. If you don't check critical credentials – database logins, API keys, etc. – into git, they don't accidentally get leaked into the wild.
 
@@ -75,3 +82,4 @@ Configuration isn't code. It's separate and shouldn't be treated like code. We n
 [pp]: http://www.patpohler.com/expressionengine-multiple-environments/
 [masterconfig]: https://github.com/focuslabllc/ee-master-config
 [12factor]: http://12factor.net/config
+[master]: https://github.com/focuslabllc/ee-master-config/blob/master/config/config.master.php
