@@ -24,8 +24,8 @@
 			"shortDescription": "It's been hammered over and over that, on the web, there is no fold. And rightly so. But lets break the rules and make one anyway.",
 			"longDescription": "It's been hammered over and over that, on the web, there is no fold. And rightly so. But lets break the rules and make one anyway.",
 			"meta": {
-				"og:image": "https://burgers.io/images/above-the-fold/og-1200x650.jpg",
-				"twitter:image": "https://burgers.io/images/above-the-fold/og-200x200.jpg"
+				"og:image": "/images/above-the-fold/og-1200x650.jpg",
+				"twitter:image": "/images/above-the-fold/og-200x200.jpg"
 			}
 		},
 		"33": {
@@ -36,8 +36,8 @@
 			"shortDescription": "How I use Trello to organize my upcoming Twitter tweets.",
 			"longDescription": "After reading \"Trello as a CMS,\" I was inspired to automate my tweets from a Trello board.",
 			"meta": {
-				"og:image": "https://burgers.io/images/from-trello-to-twitter/og-1200x650.jpg",
-				"twitter:image": "https://burgers.io/images/from-trello-to-twitter/og-200x200.png"
+				"og:image": "/images/from-trello-to-twitter/og-1200x650.jpg",
+				"twitter:image": "/images/from-trello-to-twitter/og-200x200.png"
 			}
 		},
 		"32": {
@@ -48,8 +48,8 @@
 			"shortDescription": "Writing an ExpressionEngine Add-On can be daunting. But the Plugin is a no-nonsense, easy place to start.",
 			"longDescription": "Writing an ExpressionEngine Add-On can be daunting. But the Plugin is a no-nonsense, easy place to start.",
 			"meta": {
-				"og:image": "https://burgers.io/images/first-plugin/og-1200x650.jpg",
-				"twitter:image": "https://burgers.io/images/first-plugin/og-200x200.jpg"
+				"og:image": "/images/first-plugin/og-1200x650.jpg",
+				"twitter:image": "/images/first-plugin/og-200x200.jpg"
 			}
 		},
 		"31": {
@@ -60,8 +60,8 @@
 			"shortDescription": "Far-future cache headers are important, sure, but how do you bust the cache in ExpressionEngine when an asset changes?",
 			"longDescription": "Far-future cache headers are important for the performance of a site. But they also require the the ability to bust the cache when an asset changes. But how do you do that in ExpressionEngine?",
 			"meta": {
-				"og:image": "http://www.burgers.io/images/cache-busting/og-1200x650.jpg",
-				"twitter:image": "http://www.burgers.io/images/cache-busting/og-200x200.jpg"
+				"og:image": "/images/cache-busting/og-1200x650.jpg",
+				"twitter:image": "/images/cache-busting/og-200x200.jpg"
 			}
 		},
 		"30": {
@@ -80,8 +80,8 @@
 			"shortDescription": "Black and white. Good and bad. The right way and the wrong way. It would be great if web development fell into nice neat little categories. It doesn't.",
 			"longDescription": "Black and white. Good and bad. The right way and the wrong way. It would be great if web development fell into nice neat little categories. It doesn't.",
 			"meta": {
-				"og:image": "http://www.burgers.io/images/on-development-decisions/og-1200x650.png",
-				"twitter:image": "http://www.burgers.io/images/on-development-decisions/og-200x200.png"
+				"og:image": "/images/on-development-decisions/og-1200x650.png",
+				"twitter:image": "/images/on-development-decisions/og-200x200.png"
 			}
 		},
 		"28": {
@@ -100,8 +100,8 @@
 			"shortDescription": "Changes on the web are instantaneous. Changes to an iPhone app are not. How that difference affects the design of an app.",
 			"longDescription": "I work on the internet, where I mostly build and maintain websites. Changes on the web are instantaneous. But recently, I worked on an iPhone app where this isn't the case. And it got me thinking about release cycles and their impact.",
 			"meta": {
-				"og:image": "http://www.burgers.io/images/release-cycles/og-1200x650.jpg",
-				"twitter:image": "http://www.burgers.io/images/release-cycles/og-200x200.jpg"
+				"og:image": "/images/release-cycles/og-1200x650.jpg",
+				"twitter:image": "/images/release-cycles/og-200x200.jpg"
 			}
 		},
 		"26": {
@@ -112,8 +112,8 @@
 			"shortDescription": "\"Build it and they will come\" doesn't work on the internet, but Twitter provided a world of opportunity for its5.info.",
 			"longDescription": "\"Build it and they will come\" doesn't work on the internet. its5.info needed a strategy. There were several options I knew wouldn't work. But Twitter provided a world of opportunity.",
 			"meta": {
-				"og:image": "http://www.burgers.io/images/its5/og-1200x650.png",
-				"twitter:image": "http://www.burgers.io/images/its5/og-200x200.png"
+				"og:image": "/images/its5/og-1200x650.png",
+				"twitter:image": "/images/its5/og-200x200.png"
 			}
 		},
 		"25": {
@@ -124,8 +124,8 @@
 			"shortDescription": "It's 5 o'clock somewhere, they say. But where? The story of why I built its5.info",
 			"longDescription": "On a cold day in late March, 2014, someone just trotted out the old phrase, \"It's 5 o'clock somewhere,\" and I immediately wondered where? That's when I had the idea to build a website that tells me where in the world it's 5 pm.",
 			"meta": {
-				"og:image": "http://www.burgers.io/images/its5/og-1200x650.png",
-				"twitter:image": "http://www.burgers.io/images/its5/og-200x200.png"
+				"og:image": "/images/its5/og-1200x650.png",
+				"twitter:image": "/images/its5/og-200x200.png"
 			}
 		},
 		"24": {
@@ -140,8 +140,8 @@
 			"title": "Git is a Communication Tool",
 			"date": "2014-04-15T12:41-05:00",
 			"meta": {
-				"og:image": "http://www.burgers.io/images/communication/og-1200x650.jpg",
-				"twitter:image": "http://www.burgers.io/images/communication/og-200x200.jpg"
+				"og:image": "/images/communication/og-1200x650.jpg",
+				"twitter:image": "/images/communication/og-200x200.jpg"
 			}
 		},
 		"22": {
@@ -150,8 +150,8 @@
 			"title": "Playing 2048 with Code",
 			"date": "2014-04-01T17:13-05:00",
 			"meta": {
-				"og:image": "http://www.burgers.io/images/2048/og-1200x650.png",
-				"twitter:image": "http://www.burgers.io/images/2048/og-200x200.png"
+				"og:image": "/images/2048/og-1200x650.png",
+				"twitter:image": "/images/2048/og-200x200.png"
 			}
 		},
 		"21": {
@@ -160,7 +160,7 @@
 			"title": "Introducing Switch",
 			"date": "2014-03-13T12:37-05:00",
 			"meta": {
-				"twitter:image": "http://www.burgers.io/images/switch/og-200x200.png"
+				"twitter:image": "/images/switch/og-200x200.png"
 			}
 		},
 		"20": {
@@ -181,8 +181,8 @@
 			"title": "Baby Fox Goes Camping",
 			"date": "2014-02-12T18:01-06:00",
 			"meta": {
-				"og:image": "http://www.burgers.io/images/baby-fox/og-1200x650.png",
-				"twitter:image": "http://www.burgers.io/images/baby-fox/og-200x200.png"
+				"og:image": "/images/baby-fox/og-1200x650.png",
+				"twitter:image": "/images/baby-fox/og-200x200.png"
 			}
 		},
 		"17": {
@@ -217,8 +217,8 @@
 			"shortDescription": "Far-future cache headers are important, sure, but how do you bust the cache in Node when an asset changes?",
 			"longDescription": "Far-future cache headers are important for the performance of a site. But they also require the the ability to bust the cache when an asset changes. But how do you do that in Node.js?",
 			"meta": {
-				"og:image": "http://www.burgers.io/images/cache-busting/og-1200x650.jpg",
-				"twitter:image": "http://www.burgers.io/images/cache-busting/og-200x200.jpg"
+				"og:image": "/images/cache-busting/og-1200x650.jpg",
+				"twitter:image": "/images/cache-busting/og-200x200.jpg"
 			}
 		},
 		"12": {
