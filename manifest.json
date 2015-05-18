@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"37": {
+			"slug": "upstart",
+			"document": "upstart.md",
+			"title": "Node, Upstart, and Ubuntu 14.04",
+			"date": "2015-05-18T06:54-05:00",
+			"shortDescription": "An upstart configuration for node on Ubuntu 14.04 that uses navtive options rather than resorting to \"script\".",
+			"longDescription": "An upstart configuration for node on Ubuntu 14.04 that uses navtive options rather than resorting to \"script\"."
+		},
 		"36": {
 			"slug": "configuration-is-not-code",
 			"document": "configuration-is-not-code.md",
