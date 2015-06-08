@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"38": {
+			"slug": "freeform-notifications-in-git",
+			"document": "freeform-notifications-in-git.md",
+			"title": "Tracking Freeform Notifications in Git",
+			"date": "2015-06-08T12:45-05:00",
+			"shortDescription": "How I embed ExpressionEngine templates into a Freeform Notification templates so they can be tracked in git.",
+			"longDescription": "How I embed ExpressionEngine templates into a Freeform Notification templates so they can be tracked in git."
+		},
 		"37": {
 			"slug": "upstart",
 			"document": "upstart.md",
