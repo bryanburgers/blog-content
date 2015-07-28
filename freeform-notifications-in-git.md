@@ -36,6 +36,7 @@ parameters.
 {exp:freeform:entries
     dynamic="no"
     form_name="some-form"
+    status="open|closed|pending"
     entry_id="{embed:entry_id}"}
 
 {/exp:freeform:entries}
@@ -55,6 +56,7 @@ like this:
 {exp:freeform:entries
     dynamic="no"
     form_name="some-form"
+    status="open|closed|pending"
     entry_id="{embed:entry_id}"}
   <h1>Somebody submitted a form...</h1>
   <dl>
