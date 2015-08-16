@@ -37,8 +37,8 @@ chdir /var/apps/burgers.io/current
 setuid burgersio
 
 # 5.
-start on started network
-stop on stopping network
+start on started networking
+stop on stopping networking
 # 6.
 respawn
 respawn limit 10 60
