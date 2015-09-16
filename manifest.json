@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"39": {
+			"slug": "four-digit-years",
+			"document": "four-digit-years.md",
+			"title": "Short, Localized Dates and Four-Digit Years",
+			"date": "2015-09-16T12:03-05:00",
+			"shortDescription": "Hacking PHP's IntlDateFormatter::SHORT to render all locales with 4-digit years.",
+			"longDescription": "PHP's IntlDateFormatter::SHORT renders some locales with 2-digit years. I explore how to hack it to render all locales with 4-digit years."
+		},
 		"38": {
 			"slug": "freeform-notifications-in-git",
 			"document": "freeform-notifications-in-git.md",
