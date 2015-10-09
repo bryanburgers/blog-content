@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"40": {
+			"slug": "better-user-agent",
+			"document": "better-user-agent.md",
+			"title": "A Better User Agent for NSURLRequest",
+			"date": "2015-10-09T06:47-05:00",
+			"shortDescription": "The default user agent header set by NSURLRequest is awful. Do yourself a favor and change it.",
+			"longDescription": "The default user agent header set by NSURLRequest is awful. Do yourself a favor and change it."
+		},
 		"39": {
 			"slug": "four-digit-years",
 			"document": "four-digit-years.md",
