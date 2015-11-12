@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"41": {
+			"slug": "ubuntu-letsencrypt-nginx-http2",
+			"document": "ubuntu-letsencrypt-nginx-http2.md",
+			"title": "Serving HTTP/2 with nginx on Ubuntu 14.04",
+			"date": "2015-11-12T12:28-06:00",
+			"shortDescription": "How I was able to get nginx serving HTTP/2 and a Let's Encrypt certificate on my Ubuntu 14.04 server.",
+			"longDescription": "How I was able to get nginx serving HTTP/2 and a Let's Encrypt certificate on my Ubuntu 14.04 server.",
+			"meta": {
+				"og:image": "/images/http2/og-1200x650.png",
+				"twitter:image": "/images/http2/og-200x200.png"
+			}
+		},
 		"40": {
 			"slug": "better-user-agent",
 			"document": "better-user-agent.md",
