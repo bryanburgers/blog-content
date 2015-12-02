@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"42": {
+			"slug": "decoupling-transactional-email",
+			"document": "decoupling-transactional-email.md",
+			"title": "Decoupling Transactional Email with RabbitMQ",
+			"date": "2015-12-02T12:54-06:00",
+			"shortDescription": "Using RabbitMQ to separate application logic from transactional email logic.",
+			"longDescription": "Using RabbitMQ to separate application logic from transactional email logic.",
+			"meta": {
+				"og:image": "/images/decoupling-transactional-email/og-1200x630.png",
+				"twitter:image": "/images/decoupling-transactional-email/og-200x200.png"
+			}
+		},
 		"41": {
 			"slug": "ubuntu-letsencrypt-nginx-http2",
 			"document": "ubuntu-letsencrypt-nginx-http2.md",
