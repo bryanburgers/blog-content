@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"43": {
+			"slug": "vagrant-ansible-ubuntu-16",
+			"document": "vagrant-ansible-ubuntu-16.md",
+			"title": "Using Ansible and Vagrant to Launch Ubuntu 16.04",
+			"date": "2016-08-16T15:37-05:00",
+			"shortDescription": "Using Ansible to provision a Vagrant box, even if Python isn't installed.",
+			"longDescription": "I've been impressed with Vagrant and with Ansible, but my provisions always took an extra step on Ubuntu 16.04. How to get Vagrant to install Python before provisioning the box."
+		},
 		"42": {
 			"slug": "decoupling-transactional-email",
 			"document": "decoupling-transactional-email.md",
