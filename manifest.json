@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"44": {
+			"slug": "rise-of-metadata",
+			"document": "rise-of-metadata.md",
+			"title": "The Rise of Metadata",
+			"date": "2016-09-14T08:08-05:00",
+			"shortDescription": "Facebook's using it. Twitter too. Slack. And, now iOS 10. The metadata on your website is getting more important.",
+			"longDescription": "Facebook's using it. Twitter too. Slack. And, now iOS 10. The metadata on your website is getting more important.",
+			"meta": {
+				"og:image": "/images/rise-of-metadata/og-512x512.png",
+				"twitter:image": "/images/rise-of-metadata/og-200x200.png"
+			}
+		},
 		"43": {
 			"slug": "vagrant-ansible-ubuntu-16",
 			"document": "vagrant-ansible-ubuntu-16.md",
