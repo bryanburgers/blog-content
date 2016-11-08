@@ -1,5 +1,17 @@
 {
 	"posts": {
+		"45": {
+			"slug": "yaml-configuration",
+			"document": "yaml-configuration.md",
+			"title": "YAML for Configuration",
+			"date": "2016-11-08T10:13-06:00",
+			"shortDescription": "JSON is good at a lot of things. Just not configuration files.",
+			"longDescription": "JSON is good at a lot of things, which led me to think it's great for configuration files. But it's not. YAML is the way to go.",
+			"meta": {
+				"og:image": "/images/yaml-configuration/og-400x400.png",
+				"twitter:image": "/images/yaml-configuration/og-200x200.png"
+			}
+		},
 		"44": {
 			"slug": "rise-of-metadata",
 			"document": "rise-of-metadata.md",
