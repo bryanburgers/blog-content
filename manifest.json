@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"46": {
+			"slug": "load-testing",
+			"document": "load-testing.md",
+			"title": "Load Testing with Docker and ECS",
+			"date": "2017-06-15T12:00-05:00",
+			"shortDescription": "Generating load on a service is hard. Docker and ECS makes it easier.",
+			"longDescription": "Generating load on a service is hard. Docker and ECS makes it easier."
+		},
 		"45": {
 			"slug": "yaml-configuration",
 			"document": "yaml-configuration.md",
