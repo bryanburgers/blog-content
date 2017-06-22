@@ -34,7 +34,7 @@ number of tasks had been spun up.
 
 In my situation, I would need to kick off each task individually, because each
 device needed its own unique ID, which would be passed as an environment
-variable. 
+variable.
 
 And I certainly didn't want them to all come online at _exactly_ the same time
 and slam the server. While that would be one type of load test, it wouldn't

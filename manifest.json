@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"47": {
+			"slug": "async-await",
+			"document": "async-await.md",
+			"title": "How async and await make code clearer",
+			"date": "2017-06-22T07:57-05:00",
+			"shortDescription": "Javascript's async and await have landed, and can significantly increase the readability of code.",
+			"longDescription": "Javascript's async and await are finally here, and they aren't just a bit of syntactic sugar. They can significantly increase the readability of code."
+		},
 		"46": {
 			"slug": "load-testing",
 			"document": "load-testing.md",
