@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"48": {
+            "slug": "practical-node-performance",
+            "document": "practical-node-performance.md",
+            "title": "Practical Node Performance",
+            "date": "2017-08-03T09:11-05:00",
+            "shortDescription": "What, practically, should we do with information about Node and V8's continual performance improvements.",
+            "longtDescription": "What, practically, should we do with information about Node and V8's continual performance improvements."
+        },
 		"47": {
 			"slug": "async-await",
 			"document": "async-await.md",
