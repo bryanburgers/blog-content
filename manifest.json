@@ -1,12 +1,28 @@
 {
 	"posts": {
+		"50": {
+            "slug": "extending-iterator-trait-in-rust",
+            "document": "extending-iterator-trait-in-rust.md",
+            "title": "Extending the Iterator Trait in Rust",
+            "date": "2018-01-11T07:20-06:00",
+            "shortDescription": "Extending the Iterator trait in Rust by adding a new function for a new type of iterator transformation.",
+            "longDescription": "Extending the Iterator trait in Rust by adding a new function for a new type of iterator transformation."
+        },
+		"49": {
+            "slug": "wrapped-iterators-in-rust",
+            "document": "wrapped-iterators-in-rust.md",
+            "title": "Wrapped Iterators in Rust",
+            "date": "2018-01-11T07:10-06:00",
+            "shortDescription": "About the design of iterators in Rust (which I like) and writing a new one.",
+            "longDescription": "About the design of iterators in Rust (which I like) and writing a new one."
+        },
 		"48": {
             "slug": "practical-node-performance",
             "document": "practical-node-performance.md",
             "title": "Practical Node Performance",
             "date": "2017-08-03T09:11-05:00",
             "shortDescription": "What, practically, should we do with information about Node and V8's continual performance improvements.",
-            "longtDescription": "What, practically, should we do with information about Node and V8's continual performance improvements."
+            "longDescription": "What, practically, should we do with information about Node and V8's continual performance improvements."
         },
 		"47": {
 			"slug": "async-await",
