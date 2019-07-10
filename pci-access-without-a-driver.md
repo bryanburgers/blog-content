@@ -3,7 +3,7 @@ was dreading writing a Linux kernel driver to talk to it. It turns out, Linux
 makes it possible to read and write to a PCI device's memory space without a
 driver! Woohoo!
 
-Linux provides a [sysfs interface to PCI devices](sysfs-pci). From that
+Linux provides a [sysfs interface to PCI devices][sysfs-pci]. From that
 interface, the memory space can be `mmap`ed and then read and written. No
 driver involved.
 
