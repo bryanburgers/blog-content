@@ -268,7 +268,9 @@
 			"slug": "responsive-images-without-the-cruft",
 			"document": "responsive-images-without-the-cruft.md",
 			"title": "Responsive Images – Without the Cruft",
-			"date": "2014-04-24T13:05-05:00"
+			"date": "2014-04-24T13:05-05:00",
+			"shortDescription": "\"That's a lot of markup for an image.\" The primary concern I've heard about responsive images since I wrote my responsive images article is that they're just too verbose. Things just got better. <fig…",
+			"longDescription": "\"That's a lot of markup for an image.\" The primary concern I've heard about responsive images since I wrote my responsive images article is that they're just too verbose. Things just got better. <fig…"
 		},
 		"23": {
 			"slug": "git-is-a-communication-tool",
@@ -278,7 +280,9 @@
 			"meta": {
 				"og:image": "/images/communication/og-1200x650.jpg",
 				"twitter:image": "/images/communication/og-200x200.jpg"
-			}
+			},
+			"shortDescription": "Communication is important. There are so many ways it happens: face to face, phone, email, text, instant message. It's often not thought of as such, but git is also a tool for communication. I've bee…",
+			"longDescription": "Communication is important. There are so many ways it happens: face to face, phone, email, text, instant message. It's often not thought of as such, but git is also a tool for communication. I've bee…"
 		},
 		"22": {
 			"slug": "playing-2048-with-code",
@@ -288,7 +292,9 @@
 			"meta": {
 				"og:image": "/images/2048/og-1200x650.png",
 				"twitter:image": "/images/2048/og-200x200.png"
-			}
+			},
+			"shortDescription": "What does a good move in 2048 look like? What makes one move any better than another? After getting hooked on 2048 for a while, I decided to program an AI solver for the game, and those are the funda…",
+			"longDescription": "What does a good move in 2048 look like? What makes one move any better than another? After getting hooked on 2048 for a while, I decided to program an AI solver for the game, and those are the funda…"
 		},
 		"21": {
 			"slug": "introducing-switch",
@@ -297,19 +303,25 @@
 			"date": "2014-03-13T12:37-05:00",
 			"meta": {
 				"twitter:image": "/images/switch/og-200x200.png"
-			}
+			},
+			"shortDescription": "Switch is a simple ExpressionEngine field type for choosing between two or more values. Do you need to mark an entry as featured or standard? Switch does it. Do you have two or three options, but a d…",
+			"longDescription": "Switch is a simple ExpressionEngine field type for choosing between two or more values. Do you need to mark an entry as featured or standard? Switch does it. Do you have two or three options, but a d…"
 		},
 		"20": {
 			"slug": "each-scoping-in-jquery",
 			"document": "each-scoping.md",
 			"title": "Each-Scoping in jQuery",
-			"date": "2014-02-26T13:33-06:00"
+			"date": "2014-02-26T13:33-06:00",
+			"shortDescription": "Recently, I started getting away from the jQuery pattern of checking the length of an object before writing code. Instead, I've found myself wrapping my selector in jQuery's <code>each</code> method,…",
+			"longDescription": "Recently, I started getting away from the jQuery pattern of checking the length of an object before writing code. Instead, I've found myself wrapping my selector in jQuery's <code>each</code> method,…"
 		},
 		"19": {
 			"slug": "responsive-images-using-picturefill",
 			"document": "responsive-images.md",
 			"title": "Responsive Images using Picturefill",
-			"date": "2014-02-23T14:31-06:00"
+			"date": "2014-02-23T14:31-06:00",
+			"shortDescription": "For a recent project I worked on, the mock-up for the home page carousel's images were huge. 1900×696 pixels huge. Personally, I've never used responsive images before (long overdue), but I decided t…",
+			"longDescription": "For a recent project I worked on, the mock-up for the home page carousel's images were huge. 1900×696 pixels huge. Personally, I've never used responsive images before (long overdue), but I decided t…"
 		},
 		"18": {
 			"slug": "baby-fox-goes-camping",
@@ -319,31 +331,41 @@
 			"meta": {
 				"og:image": "/images/baby-fox/og-1200x650.png",
 				"twitter:image": "/images/baby-fox/og-200x200.png"
-			}
+			},
+			"shortDescription": "About a year ago, my wife and I had a crazy idea to write a children's book for our daughter. Even crazier, I decided to illustrate it. Just recently, we finally finished it and had it self-published…",
+			"longDescription": "About a year ago, my wife and I had a crazy idea to write a children's book for our daughter. Even crazier, I decided to illustrate it. Just recently, we finally finished it and had it self-published…"
 		},
 		"17": {
 			"slug": "excluding-myself-from-google-analytics",
 			"document": "excluding-myself.md",
 			"title": "Excluding Myself from Google Analytics",
-			"date": "2014-02-06T16:02-06:00"
+			"date": "2014-02-06T16:02-06:00",
+			"shortDescription": "With as many visits as my site gets – and by that, I mean very, very few, actually – any visit that I make to the site can really skew the analytics. On the one hand, I'm my best visitor: I've been t…",
+			"longDescription": "With as many visits as my site gets – and by that, I mean very, very few, actually – any visit that I make to the site can really skew the analytics. On the one hand, I'm my best visitor: I've been t…"
 		},
 		"16": {
 			"slug": "inline-svg-with-jquery",
 			"document": "inline-svg-with-jquery.md",
 			"title": "Inline SVG with jQuery",
-			"date": "2014-01-27T06:55-06:00"
+			"date": "2014-01-27T06:55-06:00",
+			"shortDescription": "I've long been a huge admirer of SVG (W3C's Scalable Vector Graphics). As retina screens proliferate, SVG allows web developers to create images that look great on all screens, regardless of the reso…",
+			"longDescription": "I've long been a huge admirer of SVG (W3C's Scalable Vector Graphics). As retina screens proliferate, SVG allows web developers to create images that look great on all screens, regardless of the reso…"
 		},
 		"15": {
 			"slug": "more-thoughts-on-mobile-browsing",
 			"document": "more-thoughts-on-mobile-browsing.md",
 			"title": "More Thoughts on Mobile Browsing",
-			"date": "2014-01-15T07:13-06:00"
+			"date": "2014-01-15T07:13-06:00",
+			"shortDescription": "Yesterday, I stumbled into a conversation about mobile browsing with Peder Aadahl (of 168 Opportunities fame) and Curtis Jacob (of Hardy Boys Casefiles Encyclopedia fame), and it helped me articulate…",
+			"longDescription": "Yesterday, I stumbled into a conversation about mobile browsing with Peder Aadahl (of 168 Opportunities fame) and Curtis Jacob (of Hardy Boys Casefiles Encyclopedia fame), and it helped me articulate…"
 		},
 		"14": {
 			"slug": "mobile-growth-revisited",
 			"document": "mobile-growth-revisited.md",
 			"title": "Mobile Growth, Revisited",
-			"date": "2014-01-09T14:20-06:00"
+			"date": "2014-01-09T14:20-06:00",
+			"shortDescription": "I concluded last year that mobile usage is increasing, and it's time to start thinking about your mobile customers. Now, with one in four visitors coming on a mobile or tablet device, and mobile usa…",
+			"longDescription": "I concluded last year that mobile usage is increasing, and it's time to start thinking about your mobile customers. Now, with one in four visitors coming on a mobile or tablet device, and mobile usa…"
 		},
 		"13": {
 			"slug": "cache-busting-in-node",
@@ -361,73 +383,97 @@
 			"slug": "tracking-bounces-with-google-analytics",
 			"document": "bounced-visitors.md",
 			"title": "Tracking Bounces with Google Analytics",
-			"date": "2014-01-02T12:50-06:00"
+			"date": "2014-01-02T12:50-06:00",
+			"shortDescription": "I recently created a landing page for a Score Lab PPC campaign where potential customers either convert or bounce. If a customer converts, hooray!, I throw a little party in my head. But most potenti…",
+			"longDescription": "I recently created a landing page for a Score Lab PPC campaign where potential customers either convert or bounce. If a customer converts, hooray!, I throw a little party in my head. But most potenti…"
 		},
 		"11": {
 			"slug": "screen-size-histogram",
 			"document": "screen-sizes.md",
 			"title": "Screen-Size Histogram",
-			"date": "2013-12-11T13:11-06:00"
+			"date": "2013-12-11T13:11-06:00",
+			"shortDescription": "This past week, while researching for another post about IE8 and responsive design I'm thinking about writing, I pulled stats from a large number of Google Analytics profiles on all of the widths of …",
+			"longDescription": "This past week, while researching for another post about IE8 and responsive design I'm thinking about writing, I pulled stats from a large number of Google Analytics profiles on all of the widths of …"
 		},
 		"10": {
 			"slug": "stick-with-it",
 			"document": "stick-with-it.md",
 			"title": "Stick With It",
-			"date": "2013-11-25T23:38-06:00"
+			"date": "2013-11-25T23:38-06:00",
+			"shortDescription": "I still remember it. That \"s\", that little \"s\". In the basement of my childhood home, on an old vanilla computer with one of those monstrous CRT screens, I stared at that C code for hours, but nothin…",
+			"longDescription": "I still remember it. That \"s\", that little \"s\". In the basement of my childhood home, on an old vanilla computer with one of those monstrous CRT screens, I stared at that C code for hours, but nothin…"
 		},
 		"9": {
 			"slug": "five-year-plan",
 			"document": "five-year-plan.md",
 			"title": "Five-Year Plan",
-			"date": "2013-11-22T12:57-06:00"
+			"date": "2013-11-22T12:57-06:00",
+			"shortDescription": "So, you're building a new website. And you don't want to just throw your money away, so you'd like your shiny new website to last, what, about 5 years? That sounds reasonable. (Most 5-year-old websit…",
+			"longDescription": "So, you're building a new website. And you don't want to just throw your money away, so you'd like your shiny new website to last, what, about 5 years? That sounds reasonable. (Most 5-year-old websit…"
 		},
 		"8": {
 			"slug": "tip-of-the-iceberg",
 			"document": "tip-of-the-iceberg.md",
 			"title": "The Tip of the Iceberg",
-			"date": "2013-11-11T19:24-06:00"
+			"date": "2013-11-11T19:24-06:00",
+			"shortDescription": "It's a really simple app. It just does this. It just does that. On occassion a person or a small business will pitch me to build an app – a simple app – for them. But what they don't see is that what…",
+			"longDescription": "It's a really simple app. It just does this. It just does that. On occassion a person or a small business will pitch me to build an app – a simple app – for them. But what they don't see is that what…"
 		},
 		"7": {
 			"slug": "test-driven-development-for-parents",
 			"document": "tdd-for-parents.md",
 			"title": "Test-Driven Development: for Parents",
-			"date": "2013-10-29T12:49-05:00"
+			"date": "2013-10-29T12:49-05:00",
+			"shortDescription": "It's 2:30 am. Somewhere in San Francisco, California, a woman is in a coffee-fueled programming bender. For the past five hours, she's been immersed in her program, unstoppably producing code. She's …",
+			"longDescription": "It's 2:30 am. Somewhere in San Francisco, California, a woman is in a coffee-fueled programming bender. For the past five hours, she's been immersed in her program, unstoppably producing code. She's …"
 		},
 		"6": {
 			"slug": "score-lab-three-tier-architecture",
 			"document": "three-tier-architecture.md",
 			"title": "Score Lab's Three-Tier Architecture",
-			"date": "2013-10-11T12:57-05:00"
+			"date": "2013-10-11T12:57-05:00",
+			"shortDescription": "I have always liked the three-tier architecture. In my .NET days, I frequently used .NET Web Services, and then later WCF Services to structure large applications. When I started Score Lab, I started…",
+			"longDescription": "I have always liked the three-tier architecture. In my .NET days, I frequently used .NET Web Services, and then later WCF Services to structure large applications. When I started Score Lab, I started…"
 		},
 		"5": {
 			"slug": "using-ones-own-products",
 			"document": "dogfood.md",
 			"title": "Using One's Own Products",
-			"date": "2013-09-25T12:52-05:00"
+			"date": "2013-09-25T12:52-05:00",
+			"shortDescription": "I've been writing my own service, Score Lab, for sports schedules, scoring, and standings for nearly a year now. Just recently, I had the opportunity to use try it out on a real competition, the Clic…",
+			"longDescription": "I've been writing my own service, Score Lab, for sports schedules, scoring, and standings for nearly a year now. Just recently, I had the opportunity to use try it out on a real competition, the Clic…"
 		},
 		"4": {
 			"slug": "small-reusable-components",
 			"document": "small-reusable-components.md",
 			"title": "Small, Reusable Components",
-			"date": "2013-09-20T12:42-05:00"
+			"date": "2013-09-20T12:42-05:00",
+			"shortDescription": "I'm a big fan of node.js. Of the many things I like about it, my favorite is the community's focus on small, reusable components. I can't begin to count the number of times I've been happily developi…",
+			"longDescription": "I'm a big fan of node.js. Of the many things I like about it, my favorite is the community's focus on small, reusable components. I can't begin to count the number of times I've been happily developi…"
 		},
 		"3": {
 			"slug": "how-i-git",
 			"document": "how-i-git.md",
 			"title": "How I git",
-			"date": "2013-08-21T17:35-05:00"
+			"date": "2013-08-21T17:35-05:00",
+			"shortDescription": "It was late afternoon on Friday and I was more than ready to go home after a long week when I opened an email about a regression on a client website. Which, of course, needed to be fixed before the w…",
+			"longDescription": "It was late afternoon on Friday and I was more than ready to go home after a long week when I opened an email about a regression on a client website. Which, of course, needed to be fixed before the w…"
 		},
 		"2": {
 			"slug": "on-progressive-enhancement-responsive-design-and-ie",
 			"document": "on-progressive-enhancement.md",
 			"title": "On Progressive Enhancement, Responsive Design, and IE",
-			"date": "2013-04-03T11:00-06:00"
+			"date": "2013-04-03T11:00-06:00",
+			"shortDescription": "\"We have been using a Progressive Enhancement approach much more in relation to our web work. In a nutshell, this means we provide a good looking site on all browsers, then on more modern browsers, ...",
+			"longDescription": "\"We have been using a Progressive Enhancement approach much more in relation to our web work. In a nutshell, this means we provide a good looking site on all browsers, then on more modern browsers, ..."
 		},
 		"1": {
 			"slug": "the-shifting-mobile-landscape",
 			"document": "the-shifting-mobile-landscape.md",
 			"title": "The Shifting Mobile Landscape",
-			"date": "2012-06-13T11:00-06:00"
+			"date": "2012-06-13T11:00-06:00",
+			"shortDescription": "The mobile user has been typecast.",
+			"longDescription": "The mobile user has been typecast."
 		}
 	}
 }
