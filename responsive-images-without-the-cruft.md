@@ -9,16 +9,16 @@ Things just got better.
          alt="Old telephones at the Museum of Communication"
          itemprop="image"
          sizes="(min-width: 43.5em) 43.5em, 100%"
-	 srcset="http://placehold.it/348x174/ccc/4488ff 348w,
-        	 http://placehold.it/436x218/ccc/4488ff 436w,
-        	 http://placehold.it/522x261/ccc/4488ff 522w,
-        	 http://placehold.it/610x305/ccc/4488ff 610w,
-        	 http://placehold.it/696x348/ccc/4488ff 696w,
-        	 http://placehold.it/870x435/ccc/4488ff 870w,
-        	 http://placehold.it/1044x522/ccc/4488ff 1044w,
-        	 http://placehold.it/1218x609/ccc/4488ff 1218w,
-        	 http://placehold.it/1392x696/ccc/4488ff 1392w,
-        	 http://placehold.it/1566x783/ccc/4488ff 1566w">
+	 srcset="https://placehold.it/348x174/ccc/4488ff 348w,
+        	 https://placehold.it/436x218/ccc/4488ff 436w,
+        	 https://placehold.it/522x261/ccc/4488ff 522w,
+        	 https://placehold.it/610x305/ccc/4488ff 610w,
+        	 https://placehold.it/696x348/ccc/4488ff 696w,
+        	 https://placehold.it/870x435/ccc/4488ff 870w,
+        	 https://placehold.it/1044x522/ccc/4488ff 1044w,
+        	 https://placehold.it/1218x609/ccc/4488ff 1218w,
+        	 https://placehold.it/1392x696/ccc/4488ff 1392w,
+        	 https://placehold.it/1566x783/ccc/4488ff 1566w">
     <figcaption>Responsive Images. Resize me and WEEEE!</figcaption>
 </figure>
 <script src="/assets/libs/picturefill-2.0.0-alpha.js" async></script>
@@ -59,25 +59,25 @@ browsers will natively support this, and the script won't be necessary.
 Here's the original.
 
 ```
-<img src="http://placehold.it/1900x696" alt="Griffins. A pryde of them.">
+<img src="https://placehold.it/1900x696" alt="Griffins. A pryde of them.">
 ```
 
 Here's the verbose markup, using the `span`-based pattern of picturefill 1.0.
 
 ```
 <span data-picture data-alt="Griffins. A pryde of them.">
-    <span data-src="http://placehold.it/475x174"></span>
-    <span data-src="http://placehold.it/950x345"  data-media="(min-width: 476px)"></span>
-    <span data-src="http://placehold.it/1425x522" data-media="(min-width: 951px)"></span>
-    <span data-src="http://placehold.it/1900x696" data-media="(min-width: 1426px)"></span>
+    <span data-src="https://placehold.it/475x174"></span>
+    <span data-src="https://placehold.it/950x345"  data-media="(min-width: 476px)"></span>
+    <span data-src="https://placehold.it/1425x522" data-media="(min-width: 951px)"></span>
+    <span data-src="https://placehold.it/1900x696" data-media="(min-width: 1426px)"></span>
 
     <!--[if (lt IE 9) & (!IEMobile)]>
-    <span data-src="http://placehold.it/1425x522"></span>
+    <span data-src="https://placehold.it/1425x522"></span>
     <![endif]-->
 
     <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
     <noscript>
-        <img src="http://placehold.it/475x174" alt="Griffins. A pryde of them.">
+        <img src="https://placehold.it/475x174" alt="Griffins. A pryde of them.">
     </noscript>
 </span>
 ```
@@ -88,12 +88,12 @@ browser (or the polyfill) will figure out which image to download based on the
 information it has available.
 
 ```
-<img src="http://placehold.it/475x174" alt="Griffins. A pryde of them."
+<img src="https://placehold.it/475x174" alt="Griffins. A pryde of them."
      sizes="100%"
-     srcset="http://placehold.it/475x174 475w,
-             http://placehold.it/950x345 950w,
-             http://placehold.it/1425x522 1425w,
-             http://placehold.it/1900x696 1900w">
+     srcset="https://placehold.it/475x174 475w,
+             https://placehold.it/950x345 950w,
+             https://placehold.it/1425x522 1425w,
+             https://placehold.it/1900x696 1900w">
 ```
 
 Now you have no excuse.

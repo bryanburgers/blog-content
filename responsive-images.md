@@ -22,25 +22,25 @@ I didn’t even need to show you that, but I did.
 The second step: use the correct markup. Instead of the img tag:
 
 ```
-<img src="http://placehold.it/1900x696" alt="Griffins. A pryde of them.">
+<img src="https://placehold.it/1900x696" alt="Griffins. A pryde of them.">
 ```
 
 I replaced it with the following.
 
 ```
 <span data-picture data-alt="Griffins. A pryde of them.">
-    <span data-src="http://placehold.it/475x174"></span>
-    <span data-src="http://placehold.it/950x345"  data-media="(min-width: 476px)"></span>
-    <span data-src="http://placehold.it/1425x522" data-media="(min-width: 951px)"></span>
-    <span data-src="http://placehold.it/1900x696" data-media="(min-width: 1426px)"></span>
+    <span data-src="https://placehold.it/475x174"></span>
+    <span data-src="https://placehold.it/950x345"  data-media="(min-width: 476px)"></span>
+    <span data-src="https://placehold.it/1425x522" data-media="(min-width: 951px)"></span>
+    <span data-src="https://placehold.it/1900x696" data-media="(min-width: 1426px)"></span>
 
     <!--[if (lt IE 9) & (!IEMobile)]>
-    <span data-src="http://placehold.it/1425x522"></span>
+    <span data-src="https://placehold.it/1425x522"></span>
     <![endif]-->
 
     <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
     <noscript>
-        <img src="http://placehold.it/475x174" alt="Griffins. A pryde of them.">
+        <img src="https://placehold.it/475x174" alt="Griffins. A pryde of them.">
     </noscript>
 </span>
 ```
