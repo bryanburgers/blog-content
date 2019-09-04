@@ -9,7 +9,7 @@ about it.
 When dealing with iterables in Rust, they can all be chained nicely together.
 For example,
 
-```
+```rust
 some_iter
     .map(...)
     .filter(...)
@@ -21,7 +21,7 @@ The `CircularEnumerate<I>` class I was playing with is in every way a peer to
 Rust's classes, except that it can't be chained. So the nice-looking code above
 would end up looking more like the following.
 
-```
+```rust
 let temp_iter = some_iter
     .map(...)
     .filter(...);
@@ -37,7 +37,7 @@ CircularEnumerate::new(some_iter.map(...).filter(...), 3).collect()
 To feel like it fits in, using a CircularEnumerate really should fit nicely
 into the ecosystem, like the following.
 
-```
+```rust
 some_iter
     .map(...)
     .filter(...)
@@ -74,7 +74,7 @@ Any type that is circularly enumerable can call `circular_enumate` and get a
 
 OK, let's start with a rough trait.
 
-```
+```rust
 trait CircularlyEnumerable {
   fn circular_enumerate(self, items: u32) -> CircularEnumerate<Self>;
 }
