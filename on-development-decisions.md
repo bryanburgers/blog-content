@@ -1,7 +1,7 @@
 Black and white. Good and bad. The right way and the wrong way. It would be
 great if web development fell into nice neat little categories. It doesn't.
 
-![Gradient from black to white](images/on-development-decisions/bw.png "Lots of gray areas.")
+![Lots of gray areas.](images/on-development-decisions/bw.png "Gradient from black to white")
 
 If you do web development for an agency, the decisions you need to make are
 pushed and pulled by various different parties. The users who visit the

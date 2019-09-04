@@ -4,7 +4,7 @@ headers for your static assets to a year in the future. But with far-future
 cache headers comes the need to be able to *bust the cache* when a file
 changes.
 
-![Busting the cache with a sledgehammer](images/cache-busting/sledge.jpg "https://www.flickr.com/photos/larcher/3360819954")
+![https://www.flickr.com/photos/larcher/3360819954](images/cache-busting/sledge.jpg "Busting the cache with a sledgehammer")
 
 So how can we effectively cache-bust assets in a team setting when we're
 building in ExpressionEngine?

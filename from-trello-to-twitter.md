@@ -14,7 +14,7 @@ And bonus: I love building things. This would be fun.
 So I created a board, dug into the [Trello API][api], and started playing
 around.
 
-![A Trello board](images/from-trello-to-twitter/trello.png "My 'Twitter Automation' Trello board.")
+![My 'Twitter Automation' Trello board.](images/from-trello-to-twitter/trello.png "A Trello board")
 
 Here's what I ended up with. I now have a board called _Twitter Automation_.
 It has a list called _Queue_, and every weekday at about 9am, a program takes

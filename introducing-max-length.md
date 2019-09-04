@@ -1,7 +1,7 @@
 Max Length is an accessory that provides a small, unobtrusive indicator for
 how many characters an input has left before reaching its maximum length.
 
-![Examples of indicators](images/max-length/indicator-examples.png "Max Length in action")
+![Max Length in action](images/max-length/indicator-examples.png "Examples of indicators")
 
 When we at [Click Rain][cr] build ExpressionEngine sites, we take the editor
 experience seriously. It's why we hide the fields that the editors don't need

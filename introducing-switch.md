@@ -1,7 +1,7 @@
 Switch is a simple ExpressionEngine field type for choosing between two or
 more values.
 
-![Lots of switches in a perspective view](images/switch/switches.png "Switches switches everywhere!")
+![Switches switches everywhere!](images/switch/switches.png "Lots of switches in a perspective view")
 
 Do you need to mark an entry as featured or standard? Switch does it.
 
@@ -17,7 +17,7 @@ job.
 Most switches are pretty basic. On or Off. Enabled or Disabled. Featured or
 Standard. Switch has you covered.
 
-![Switches with 2, 3, 5, and 8 options](images/switch/options.png "I ran out of ideas for five and eight.")
+![I ran out of ideas for five and eight.](images/switch/options.png "Switches with 2, 3, 5, and 8 options")
 
 But sometimes, you need a few more options. OK, Warning, or Error. Child, Full
 Price, or Senior Discount. Switch still has you covered.
@@ -29,7 +29,7 @@ upper limit, but any more and you should probably be using a drop-down menu.
 
 Switch also supports a fixed set of colors.
 
-![Switches showing the five different colors: default, green, yellow, red, and blue](images/switch/colors.png "Be kind. Use colors responsibly.")
+![Be kind. Use colors responsibly.](images/switch/colors.png "Switches showing the five different colors: default, green, yellow, red, and blue")
 
 Want to emphasize the difference between Enabled and Disabled? Set Enabled to
 green and Disabled to red. Have an intermediate value? Set it to yellow.

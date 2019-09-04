@@ -3,7 +3,7 @@ phrase, "It's 5 o'clock somewhere," and I immediately wondered _where_? That's
 when I had the idea: there should be website that tells me where in the world
 it's 5:00 pm.
 
-![Stylized its5.info logo](images/its5/its5.svg "The its5.info banner. Or pick two random fonts and put them together.")
+![The its5.info banner. Or pick two random fonts and put them together.](images/its5/its5.svg "Stylized its5.info logo")
 
 ## For fun, not profit
 

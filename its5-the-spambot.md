@@ -4,7 +4,7 @@ money-making venture. Google search results for "it's 5 o'clock somewhere" are
 dominated by Alan Jackson and Jimmy Buffet's hit song, so that was a no go.
 But Twitter provided a world of opportunity.
 
-![Stylized its5.info logo](images/its5/its5.svg "Twitter and I disagree on the value of its5.info")
+![Twitter and I disagree on the value of its5.info](images/its5/its5.svg "Stylized its5.info logo")
 
 I had decided early on that the project would have a Twitter account that
 would surf Twitter and, like a pedantic 7-year-old, simply respond to anybody

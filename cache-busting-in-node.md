@@ -4,7 +4,7 @@ headers for your static assets to a year in the future. But with far-future
 cache headers comes the need to be able to *bust the cache* when a file
 changes.
 
-![A sledgehammer](images/cache-busting/sledge.jpg "https://www.flickr.com/photos/larcher/3360819954")
+![https://www.flickr.com/photos/larcher/3360819954](images/cache-busting/sledge.jpg "A sledgehammer")
 
 My favorite method of cache busting is the [method espoused by Steve Sounders](http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/)
 and used in [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/master/.htaccess#L598)

@@ -2,7 +2,7 @@ I work on the internet, where I mostly build and maintain websites. The web
 has this really interesting property that people often don't even think about:
 on the web, when I make a change, people can see it _instantly_.
 
-![Sculpture of a tortise and a hare](images/release-cycles/sculpture.jpg "The tortise and the hare. (c) flickr.com/cle0patra")
+![The tortise and the hare. (c) flickr.com/cle0patra](images/release-cycles/sculpture.jpg "Sculpture of a tortise and a hare")
 
 But recently, I worked on an iPhone app where this isn't the case. And it got
 me thinking about release cycles and their impact.

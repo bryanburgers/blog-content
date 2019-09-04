@@ -2,7 +2,7 @@ If you've never done it before, writing an ExpressionEngine add-on can be
 daunting. First you have to figure out what type of add-on you need. Then you
 need to make sure all the pieces are in just the right places.
 
-![Puzzle pieces](/images/first-plugin/puzzle.jpg "https://flic.kr/p/7DzC2S")
+![https://flic.kr/p/7DzC2S](/images/first-plugin/puzzle.jpg "Puzzle pieces")
 
 A module needs control panel files, language files, updater files, all before
 it even shows up in the list.  A fieldtype requires knowing exactly what

@@ -27,7 +27,7 @@ Slack shows the same information, but also includes a publish date.
 New in iOS 10, iMessage shows a title, an image, and the domain, but opts not to
 show the description.
 
-![Screenshot of Everton FC's Wikipedia page](images/rise-of-metadata/wikipedia.png "Even Wikipedia")
+![Even Wikipedia](images/rise-of-metadata/wikipedia.png "Screenshot of Everton FC's Wikipedia page")
 
 Even Wikipedia is getting in on the game! (Nope, *Baby Fox Goes Camping* doesn't
 meet Wikipedia's notability requirements.) Wikipedia has a "Hovercards" beta

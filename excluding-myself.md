@@ -7,7 +7,7 @@ very much if I think that most of them are me.
 
 Basically, I need a way to exclude myself from Analytics.
 
-![A person excluded from a larger group](/images/excluding-myself.svg "That's me, over there. Being excluded. Person by Jens Tärning from The Noun Project.")
+![That's me, over there. Being excluded. Person by Jens Tärning from The Noun Project.](/images/excluding-myself.svg "A person excluded from a larger group")
 
 After a bit of searching, I settled on an approach that involved creating a
 [custom dimension][1] in Google Analytics, and figuring out how to set its

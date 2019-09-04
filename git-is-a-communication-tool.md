@@ -2,7 +2,7 @@ Communication is important. There are so many ways it happens: face to face,
 phone, email, text, instant message. It's often not thought of as such, but
 git is also a tool for communication.
 
-![Old telephones at the Museum of Communication](images/communication/phones.jpg "Copyright Adam Foster. Flickr.")
+![Copyright Adam Foster. Flickr.](images/communication/phones.jpg "Old telephones at the Museum of Communication")
 
 I've been thinking about the *communication* aspects of git recently. Git *is*
 just as much a communication tool as email, IM, or project management

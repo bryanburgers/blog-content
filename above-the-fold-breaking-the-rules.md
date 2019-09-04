@@ -1,6 +1,6 @@
 On the web [there][f1] [is][f2] [no][f3] [fold][f4].
 
-![Stacked newspapers](images/above-the-fold/fold.jpg "Newspapers have a fold. The web does not.")
+![Newspapers have a fold. The web does not.](images/above-the-fold/fold.jpg "Stacked newspapers")
 
 It's been hammered over and over that, on the web, there is no fold.
 
@@ -17,7 +17,7 @@ fold_, so the mantra is that there is no fold.
 In college, I took an art course in which we discussed the work of the famous
 Dutch abstract artist [Piet Mondrian][piet].
 
-![Composition with Red, Blue, and Yellow](images/above-the-fold/composition.jpg "Piet Mondrian's 'Composition with Red, Blue and Yellow', 1930")
+![Piet Mondrian's 'Composition with Red, Blue and Yellow', 1930](images/above-the-fold/composition.jpg "Composition with Red, Blue, and Yellow")
 
 What stuck with me all these years later is what the professor said about
 rules. Mondrian was a brilliant, gifted painter who, in his early works,
