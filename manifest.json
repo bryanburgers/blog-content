@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"52": {
+			"slug": "fastly-wasm-on-the-edge",
+			"document": "fastly-wasm-on-the-edge.md",
+			"title": "Deploying WASM to Fastly's Edge",
+			"date": "2019-09-06T10:00-05:00",
+			"shortDescription": "Take Fastly's Terrarium to a new level by deploying from a local build.",
+			"longDescription": "Take Fastly's Terrarium to a new level by deploying from a local build."
+		},
 		"51": {
 			"slug": "pci-access-without-a-driver",
 			"document": "pci-access-without-a-driver.md",
