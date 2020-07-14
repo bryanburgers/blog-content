@@ -1,7 +1,8 @@
 It’s 2020. The world is abuzz with, well – _waves hand_ – all this. But it's
 also abuzz with [ARM]: Apple is moving their Mac line to Apple Silicon, Amazon
 has been been touting their Gravaton2-based infrastructure, Cloudflare is said
-to be going all ARM on their edge nodes.
+to be going all ARM on their edge nodes, and the [world's fastest supercomputer
+is built on ARM][supercomputer].
 
 For a long time, I – and I think many others – held the idea that [x86-64] is
 for heavy workloads and ARM is for the "little stuff" like embedded systems and
@@ -238,3 +239,4 @@ As bullet points? Why not.
 [ring]: https://docs.rs/ring
 [Zenlist]: https://zenlist.com
 [lambda]: https://aws.amazon.com/lambda/
+[supercomputer]: https://www.anandtech.com/show/15869/new-1-supercomputer-fujitsus-fugaku-and-a64fx-take-arm-to-the-top-with-415-petaflops
