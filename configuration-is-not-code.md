@@ -17,7 +17,7 @@ Master Config's [config.master.php][master], on the other hand, _should_ be chec
 
 There are many good reasons why configuration – things that change between environments – should not be tracked.
 
-1.    **Secrets stay secret**. If you don't check critical credentials – database logins, API keys, etc. – into git, they don't accidentally get leaked into the wild.
+1.  **Secrets stay secret**. If you don't check critical credentials – database logins, API keys, etc. – into git, they don't accidentally get leaked into the wild.
 
     Where I work, we recently received a repo from a local competitor because the client switched to us. That repo contained the root username and password for their database because they checked it in. Now I have it.
 
@@ -26,7 +26,7 @@ There are many good reasons why configuration – things that change between env
 
     Sometimes, we as professionals have a lot to do, so we forget to sanitize a repo before sharing it. That's reality. But if critical credentials are never in the repo, then we never leak them.
 
-1.    **Local environments differ**. Your team members' local environments all differ. He uses a different database naming scheme. She actually set a password for her local SQL install.
+1.  **Local environments differ**. Your team members' local environments all differ. He uses a different database naming scheme. She actually set a password for her local SQL install.
 
     That's OK. If config isn't checked into git, you don't have to fight over whose is committed or leave your changes unstaged and try to remember not to commit them. Or worse, have a separate config file checked in for everybody who has ever worked on the site.
 
@@ -34,15 +34,15 @@ There are many good reasons why configuration – things that change between env
 
     > What makes this convenient is that we ignore our `config.local.php` file from Git. That way each local developer has their own config overrides that won’t affect the main repository.
 
-1.    **Portability**. There are tons of reasons you might want to change configuration. You moved a site to a new server. You temporarily put the site on a new server to evaluate a new hosting provider. You hired an intern and want him to change one small bit of CSS in a local environment. You brought in a consultant to attack a particularly tricky problem.
+1.  **Portability**. There are tons of reasons you might want to change configuration. You moved a site to a new server. You temporarily put the site on a new server to evaluate a new hosting provider. You hired an intern and want him to change one small bit of CSS in a local environment. You brought in a consultant to attack a particularly tricky problem.
 
     You don't need a commit to track all of these situations, because it isn't important in the history. You should be able to download the site code and get it running without first having to change a tracked file.
 
-1.    **External scripts are easier**. When you have a central, tracked config file, you need a way to determine which environment to use. [Master Config][masterconfig] uses `HTTP_HOST` to make this choice. But cron jobs and external scripts don't have an `HTTP_HOST`.
+1.  **External scripts are easier**. When you have a central, tracked config file, you need a way to determine which environment to use. [Master Config][masterconfig] uses `HTTP_HOST` to make this choice. But cron jobs and external scripts don't have an `HTTP_HOST`.
 
     When your configuration is always stored the same way and in the exact same place, but differs per environment, external scripts can rely on this without needing complicated logic to try to guess the environment.
 
-1.    **Bisectable git history**. I love `git bisect`. It helps me find issues fast.
+1.  **Bisectable git history**. I love `git bisect`. It helps me find issues fast.
 
     The other day, I was trying to debug an issue with one of our sites. So of course I first tried `git bisect` to determine when the issue started occurring. But my configuration was checked into git _and_ it changed recently. So every time I went back in history, my configuration was wrong.
 
