@@ -1,5 +1,14 @@
 {
 	"posts": {
+		"53": {
+			"slug": "cross-compile-rust-from-arm-to-x86-64",
+			"document": "cross-compile-rust-from-arm-to-x86-64.md",
+			"title": "Cross-compiling Rust from ARM to x86_64",
+			"date": "2020-07-14T10:00-05:00",
+			"shortDescription": "Most people cross-compile from x86_64 to ARM. We're going the other way!",
+			"longDescription": "Most people cross-compile from x86_64 to ARM. We're going the other way!",
+			"tags": ["rust"]
+		},
 		"52": {
 			"slug": "fastly-wasm-on-the-edge",
 			"document": "fastly-wasm-on-the-edge.md",
