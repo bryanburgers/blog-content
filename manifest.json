@@ -1,5 +1,13 @@
 {
 	"posts": {
+		"54": {
+			"slug": "twister.sh",
+			"document": "twister-sh.md",
+			"title": "twister.sh",
+			"date": "2020-11-12T14:15-06:00",
+			"shortDescription": "Sometimes, you just need to wash the dishes even though the kids are begging to play Twister.",
+			"longDescription": "Sometimes, you just need to wash the dishes even though the kids are begging to play Twister."
+		},
 		"53": {
 			"slug": "cross-compile-rust-from-arm-to-x86-64",
 			"document": "cross-compile-rust-from-arm-to-x86-64.md",
