@@ -130,7 +130,7 @@ So— how are we supposed to create a logger if we can't get the values of what 
 
 [`tracing`] made a choice to never permanently store the data it's given in events and spans. If we want to get the data, we need to store it ourselves.
 
-The way we do that is via the Visitor Pattern. So it looks like we need to create an implementor of [`Visit`] to get the values out of the event. Alright, let's do some more `println!` exploration.
+The way we do that is via the Visitor Pattern. So it looks like we need to create an implementer of [`Visit`] to get the values out of the event. Alright, let's do some more `println!` exploration.
 
 [`Visit`] exposes a `record_*` method for each type that `tracing` can handle. So we'll hook them all up to print out the name and the value.
 

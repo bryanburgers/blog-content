@@ -6,7 +6,8 @@
 			"title": "Custom Logging in Rust Using tracing and tracing-subscriber",
 			"date": "2021-10-14T10:30-05:00",
 			"shortDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
-			"longDescription": "Learning tracing and tracing subscriber by implementing my own custom logger."
+			"longDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
+			"tags": ["rust"]
 		},
 		"54": {
 			"slug": "twister.sh",
