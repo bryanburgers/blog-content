@@ -4,7 +4,7 @@ Because that seems like where the ecosystem is heading, I wanted to replace the 
 
 You know what that means: time to build our own! If you want to learn how to build your own logger, want to understand more about tracing layers, or just want to come along, let's take this journey together.
 
-In this article, we'll discover how to build a logger that prints out *moment-in-time* events. In the next, we'll look at how we can use [`tracing`]'s *period-of-time* spans to provide better structured logs.
+In this article, we'll discover how to build a logger that prints out *moment-in-time* events. In [the next article][next], we'll look at how we can use [`tracing`]'s *period-of-time* spans to provide better structured logs.
 
 
 ## Laying the groundwork
@@ -300,7 +300,7 @@ Running it gives us...
 </figcaption>
 </figure>
 
-And there we have it. We have a [`Layer`] that we can add to [`tracing-subscriber`] that will log structured events.  In the next article, we'll look at how we can use [`tracing`]'s *period-of-time* spans to provide even more rich context information to our logs.
+And there we have it. We have a [`Layer`] that we can add to [`tracing-subscriber`] that will log structured events.  In [the next article][next], we'll look at how we can use [`tracing`]'s *period-of-time* spans to provide even more rich context information to our logs.
 
 [`tracing`]: https://docs.rs/tracing/0.1
 [`tracing-subscriber`]: https://docs.rs/tracing-subscriber/0.2
@@ -317,3 +317,4 @@ And there we have it. We have a [`Layer`] that we can add to [`tracing-subscribe
 [span]: https://docs.rs/tracing/0.1/tracing/span
 [Zenlist]: https://zenlist.com
 [`Event::fields()`]: https://docs.rs/tracing-core/0.1/tracing_core/event/struct.Event.html#method.fields
+[next]: /custom-logging-in-rust-using-tracing-part-2
