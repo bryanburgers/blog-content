@@ -1,5 +1,14 @@
 {
 	"posts": {
+		"57": {
+			"slug": "calling-rust-from-ios",
+			"document": "calling-rust-from-ios.md",
+			"title": "Calling Rust from iOS",
+			"date": "2022-11-18T14:45-05:00",
+			"shortDescription": "Rust? Swift? iOS? Well let's give this a try.",
+			"longDescription": "Rust? Swift? iOS? Well let's give this a try.",
+			"tags": ["rust"]
+		},
 		"56": {
 			"slug": "custom-logging-in-rust-using-tracing-part-2",
 			"document": "custom-logging-in-rust-using-tracing-part-2.md",
