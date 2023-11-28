@@ -1,573 +1,582 @@
 {
-	"posts": {
-		"58": {
-			"slug": "complete-novice-wasm-parsing-numbers",
-			"document": "complete-novice-wasm-parsing-numbers.md",
-			"title": "A complete novice writes Wasm by hand: Parsing Numbers",
-			"date": "2023-11-21T09:45-06:00",
-			"shortDescription": "A complete novice at WebAssembly tries to write Wasm to solve Advent of Code problems.",
-			"longDescription": "A complete novice at WebAssembly tries to write Wasm to solve Advent of Code problems.",
-			"tags": ["wasm"]
-		},
-		"57": {
-			"slug": "calling-rust-from-ios",
-			"document": "calling-rust-from-ios.md",
-			"title": "Calling Rust from iOS",
-			"date": "2022-11-18T14:45-05:00",
-			"shortDescription": "Rust? Swift? iOS? Well let's give this a try.",
-			"longDescription": "Rust? Swift? iOS? Well let's give this a try.",
-			"tags": ["rust"]
-		},
-		"56": {
-			"slug": "custom-logging-in-rust-using-tracing-part-2",
-			"document": "custom-logging-in-rust-using-tracing-part-2.md",
-			"title": "Custom Logging in Rust Using tracing and tracing-subscriber, part 2",
-			"date": "2021-10-21T13:45-05:00",
-			"shortDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
-			"longDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
-			"tags": ["rust"]
-		},
-		"55": {
-			"slug": "custom-logging-in-rust-using-tracing",
-			"document": "custom-logging-in-rust-using-tracing.md",
-			"title": "Custom Logging in Rust Using tracing and tracing-subscriber",
-			"date": "2021-10-14T10:30-05:00",
-			"shortDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
-			"longDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
-			"tags": ["rust"]
-		},
-		"54": {
-			"slug": "twister.sh",
-			"document": "twister-sh.md",
-			"title": "twister.sh",
-			"date": "2020-11-12T14:15-06:00",
-			"shortDescription": "Sometimes, you just need to wash the dishes even though the kids are begging to play Twister.",
-			"longDescription": "Sometimes, you just need to wash the dishes even though the kids are begging to play Twister."
-		},
-		"53": {
-			"slug": "cross-compile-rust-from-arm-to-x86-64",
-			"document": "cross-compile-rust-from-arm-to-x86-64.md",
-			"title": "Cross-compiling Rust from ARM to x86-64",
-			"date": "2020-07-14T10:00-05:00",
-			"shortDescription": "Most people cross-compile from x86-64 to ARM. We're going the other way!",
-			"longDescription": "Most people cross-compile from x86-64 to ARM. We're going the other way!",
-			"tags": ["rust"]
-		},
-		"52": {
-			"slug": "fastly-wasm-on-the-edge",
-			"document": "fastly-wasm-on-the-edge.md",
-			"title": "Deploying WASM to Fastly's Edge",
-			"date": "2019-09-06T10:00-05:00",
-			"shortDescription": "Take Fastly's Terrarium to a new level by deploying from a local build.",
-			"longDescription": "Take Fastly's Terrarium to a new level by deploying from a local build.",
-			"tags": ["rust", "wasm"]
-		},
-		"51": {
-			"slug": "pci-access-without-a-driver",
-			"document": "pci-access-without-a-driver.md",
-			"title": "PCI Access Without a Driver",
-			"date": "2019-07-09T14:45-05:00",
-			"shortDescription": "Poke around in PCI memory space without writing a driver.",
-			"longDescription": "Poke around in PCI memory space without writing a driver."
-		},
-		"50": {
-			"slug": "extending-iterator-trait-in-rust",
-			"document": "extending-iterator-trait-in-rust.md",
-			"title": "Extending the Iterator Trait in Rust",
-			"date": "2018-01-11T07:20-06:00",
-			"shortDescription": "Extending the Iterator trait in Rust by adding a new function for a new type of iterator transformation.",
-			"longDescription": "Extending the Iterator trait in Rust by adding a new function for a new type of iterator transformation.",
-			"tags": ["rust"]
-		},
-		"49": {
-			"slug": "wrapped-iterators-in-rust",
-			"document": "wrapped-iterators-in-rust.md",
-			"title": "Wrapped Iterators in Rust",
-			"date": "2018-01-11T07:10-06:00",
-			"shortDescription": "About the design of iterators in Rust (which I like) and writing a new one.",
-			"longDescription": "About the design of iterators in Rust (which I like) and writing a new one.",
-			"tags": ["rust"]
-		},
-		"48": {
-			"slug": "practical-node-performance",
-			"document": "practical-node-performance.md",
-			"title": "Practical Node Performance",
-			"date": "2017-08-03T09:11-05:00",
-			"shortDescription": "What, practically, should we do with information about Node and V8's continual performance improvements.",
-			"longDescription": "What, practically, should we do with information about Node and V8's continual performance improvements.",
-			"tags": ["javascript"]
-		},
-		"47": {
-			"slug": "async-await",
-			"document": "async-await.md",
-			"title": "How async and await make code clearer",
-			"date": "2017-06-22T07:57-05:00",
-			"shortDescription": "Javascript's async and await have landed, and can significantly increase the readability of code.",
-			"longDescription": "Javascript's async and await are finally here, and they aren't just a bit of syntactic sugar. They can significantly increase the readability of code.",
-			"tags": ["javascript"]
-		},
-		"46": {
-			"slug": "load-testing",
-			"document": "load-testing.md",
-			"title": "Load Testing with Docker and ECS",
-			"date": "2017-06-15T12:00-05:00",
-			"shortDescription": "Generating load on a service is hard. Docker and ECS makes it easier.",
-			"longDescription": "Generating load on a service is hard. Docker and ECS makes it easier."
-		},
-		"45": {
-			"slug": "yaml-configuration",
-			"document": "yaml-configuration.md",
-			"title": "YAML for Configuration",
-			"date": "2016-11-08T10:13-06:00",
-			"shortDescription": "JSON is good at a lot of things. Just not configuration files.",
-			"longDescription": "JSON is good at a lot of things, which led me to think it's great for configuration files. But it's not. YAML is the way to go.",
-			"meta": {
-				"og:image": "/images/yaml-configuration/og-400x400.png",
-				"twitter:image": "/images/yaml-configuration/og-200x200.png"
-			}
-		},
-		"44": {
-			"slug": "rise-of-metadata",
-			"document": "rise-of-metadata.md",
-			"title": "The Rise of Metadata",
-			"date": "2016-09-14T08:08-05:00",
-			"shortDescription": "Facebook's using it. Twitter too. Slack. And, now iOS 10. The metadata on your website is getting more important.",
-			"longDescription": "Facebook's using it. Twitter too. Slack. And, now iOS 10. The metadata on your website is getting more important.",
-			"meta": {
-				"og:image": "/images/rise-of-metadata/og-512x512.png",
-				"twitter:image": "/images/rise-of-metadata/og-200x200.png"
-			},
-			"tags": ["frontend"]
-		},
-		"43": {
-			"slug": "vagrant-ansible-ubuntu-16",
-			"document": "vagrant-ansible-ubuntu-16.md",
-			"title": "Using Ansible and Vagrant to Launch Ubuntu 16.04",
-			"date": "2016-08-16T15:37-05:00",
-			"shortDescription": "Using Ansible to provision a Vagrant box, even if Python isn't installed.",
-			"longDescription": "I've been impressed with Vagrant and with Ansible, but my provisions always took an extra step on Ubuntu 16.04. How to get Vagrant to install Python before provisioning the box."
-		},
-		"42": {
-			"slug": "decoupling-transactional-email",
-			"document": "decoupling-transactional-email.md",
-			"title": "Decoupling Transactional Email with RabbitMQ",
-			"date": "2015-12-02T12:54-06:00",
-			"shortDescription": "Using RabbitMQ to separate application logic from transactional email logic.",
-			"longDescription": "Using RabbitMQ to separate application logic from transactional email logic.",
-			"meta": {
-				"og:image": "/images/decoupling-transactional-email/og-1200x630.png",
-				"twitter:image": "/images/decoupling-transactional-email/og-200x200.png"
-			}
-		},
-		"41": {
-			"slug": "ubuntu-letsencrypt-nginx-http2",
-			"document": "ubuntu-letsencrypt-nginx-http2.md",
-			"title": "Serving HTTP/2 with nginx on Ubuntu 14.04",
-			"date": "2015-11-12T12:28-06:00",
-			"shortDescription": "How I was able to get nginx serving HTTP/2 and a Let's Encrypt certificate on my Ubuntu 14.04 server.",
-			"longDescription": "How I was able to get nginx serving HTTP/2 and a Let's Encrypt certificate on my Ubuntu 14.04 server.",
-			"meta": {
-				"og:image": "/images/http2/og-1200x650.png",
-				"twitter:image": "/images/http2/og-200x200.png"
-			}
-		},
-		"40": {
-			"slug": "better-user-agent",
-			"document": "better-user-agent.md",
-			"title": "A Better User Agent for NSURLRequest",
-			"date": "2015-10-09T06:47-05:00",
-			"shortDescription": "The default user agent header set by NSURLRequest is awful. Do yourself a favor and change it.",
-			"longDescription": "The default user agent header set by NSURLRequest is awful. Do yourself a favor and change it.",
-			"tags": ["swift"]
-		},
-		"39": {
-			"slug": "four-digit-years",
-			"document": "four-digit-years.md",
-			"title": "Short, Localized Dates and Four-Digit Years",
-			"date": "2015-09-16T12:03-05:00",
-			"shortDescription": "Hacking PHP's IntlDateFormatter::SHORT to render all locales with 4-digit years.",
-			"longDescription": "PHP's IntlDateFormatter::SHORT renders some locales with 2-digit years. I explore how to hack it to render all locales with 4-digit years.",
-			"tags": ["php"]
-		},
-		"38": {
-			"slug": "freeform-notifications-in-git",
-			"document": "freeform-notifications-in-git.md",
-			"title": "Tracking Freeform Notifications in Git",
-			"date": "2015-06-08T12:45-05:00",
-			"shortDescription": "How I embed ExpressionEngine templates into a Freeform Notification templates so they can be tracked in git.",
-			"longDescription": "How I embed ExpressionEngine templates into a Freeform Notification templates so they can be tracked in git.",
-			"tags": ["git"]
-		},
-		"37": {
-			"slug": "upstart",
-			"document": "upstart.md",
-			"title": "Node, Upstart, and Ubuntu 14.04",
-			"date": "2015-05-18T06:54-05:00",
-			"shortDescription": "An upstart configuration for node on Ubuntu 14.04 that uses navtive options rather than resorting to \"script\".",
-			"longDescription": "An upstart configuration for node on Ubuntu 14.04 that uses navtive options rather than resorting to \"script\".",
-			"tags": ["javascript"]
-		},
-		"36": {
-			"slug": "configuration-is-not-code",
-			"document": "configuration-is-not-code.md",
-			"title": "Configuration is Not Code",
-			"date": "2015-02-13T07:08-06:00",
-			"shortDescription": "Configuration does not belong in the database. We've known this for years. But configuration also does not belong in git.",
-			"longDescription": "Configuration does not belong in the database. We've known this for years. But configuration also does not belong in git.",
-			"tags": ["git"]
-		},
-		"35": {
-			"slug": "stash-layouts",
-			"document": "stash-layouts.md",
-			"title": "Stash Layouts",
-			"date": "2015-02-05T06:04-06:00",
-			"shortDescription": "Stash is a powerful tool for templating in ExpressionEngine. Used the right way, it can improve the readability of templates.",
-			"longDescription": "Stash is a powerful tool for templating in ExpressionEngine. Used the right way, it can improve the readability of templates. Used the wrong way, it can make a mess of things."
-		},
-		"34": {
-			"slug": "above-the-fold-breaking-the-rules",
-			"document": "above-the-fold-breaking-the-rules.md",
-			"title": "Above the Fold, Breaking the Rules",
-			"date": "2015-01-31T14:22-06:00",
-			"shortDescription": "It's been hammered over and over that, on the web, there is no fold. And rightly so. But lets break the rules and make one anyway.",
-			"longDescription": "It's been hammered over and over that, on the web, there is no fold. And rightly so. But lets break the rules and make one anyway.",
-			"meta": {
-				"og:image": "/images/above-the-fold/og-1200x650.jpg",
-				"twitter:image": "/images/above-the-fold/og-200x200.jpg"
-			},
-			"tags": ["frontend"]
-		},
-		"33": {
-			"slug": "from-trello-to-twitter",
-			"document": "from-trello-to-twitter.md",
-			"title": "From Trello to Twitter",
-			"date": "2015-01-23T12:19-06:00",
-			"shortDescription": "How I use Trello to organize my upcoming Twitter tweets.",
-			"longDescription": "After reading \"Trello as a CMS,\" I was inspired to automate my tweets from a Trello board.",
-			"meta": {
-				"og:image": "/images/from-trello-to-twitter/og-1200x650.jpg",
-				"twitter:image": "/images/from-trello-to-twitter/og-200x200.png"
-			}
-		},
-		"32": {
-			"slug": "the-plugin-your-first-expressionengine-addon",
-			"document": "first-plugin.md",
-			"title": "The Plugin: Your First ExpressionEngine Add-On",
-			"date": "2015-01-18T14:01-06:00",
-			"shortDescription": "Writing an ExpressionEngine Add-On can be daunting. But the Plugin is a no-nonsense, easy place to start.",
-			"longDescription": "Writing an ExpressionEngine Add-On can be daunting. But the Plugin is a no-nonsense, easy place to start.",
-			"meta": {
-				"og:image": "/images/first-plugin/og-1200x650.jpg",
-				"twitter:image": "/images/first-plugin/og-200x200.jpg"
-			}
-		},
-		"31": {
-			"slug": "cache-busting-in-expressionengine",
-			"document": "cache-busting-in-expressionengine.md",
-			"title": "Cache-Busting CSS and JavaScript in ExpressionEngine",
-			"date": "2014-11-17T17:04-06:00",
-			"shortDescription": "Far-future cache headers are important, sure, but how do you bust the cache in ExpressionEngine when an asset changes?",
-			"longDescription": "Far-future cache headers are important for the performance of a site. But they also require the the ability to bust the cache when an asset changes. But how do you do that in ExpressionEngine?",
-			"meta": {
-				"og:image": "/images/cache-busting/og-1200x650.jpg",
-				"twitter:image": "/images/cache-busting/og-200x200.jpg"
-			}
-		},
-		"30": {
-			"slug": "introducing-max-length",
-			"document": "introducing-max-length.md",
-			"title": "Introducing Max Length",
-			"date": "2014-09-05T12:46-05:00",
-			"shortDescription": "Max Length is an accessory that provides a small, unobtrusive indicator for how many characters an input has left before reaching its maximum length.",
-			"longDescription": "Max Length is an accessory that provides a small, unobtrusive indicator for how many characters an input has left before reaching its maximum length."
-		},
-		"29": {
-			"slug": "on-development-decisions",
-			"document": "on-development-decisions.md",
-			"title": "On Development Decisions",
-			"date": "2014-08-11T07:18-05:00",
-			"shortDescription": "Black and white. Good and bad. The right way and the wrong way. It would be great if web development fell into nice neat little categories. It doesn't.",
-			"longDescription": "Black and white. Good and bad. The right way and the wrong way. It would be great if web development fell into nice neat little categories. It doesn't.",
-			"meta": {
-				"og:image": "/images/on-development-decisions/og-1200x650.png",
-				"twitter:image": "/images/on-development-decisions/og-200x200.png"
-			}
-		},
-		"28": {
-			"slug": "squashing-commits",
-			"document": "squashing-commits.md",
-			"title": "Squashing Commits",
-			"date": "2014-07-03T07:19-05:00",
-			"shortDescription": "Your git history can read like a rambling stream-of-consciousness tome or a sharp-witted novella. Do us all a favor and squash your commits.",
-			"longDescription": "Your git history is like a book. It can read like a rambling stream-of-consciousness tome. Or you can squash your commits to read like a sharp-witted novella. Do us all a favor and squash your commits.",
-			"tags": ["git"]
-		},
-		"27": {
-			"slug": "release-cycles",
-			"document": "release-cycles.md",
-			"title": "Release Cycles",
-			"date": "2014-06-20T12:28-05:00",
-			"shortDescription": "Changes on the web are instantaneous. Changes to an iPhone app are not. How that difference affects the design of an app.",
-			"longDescription": "I work on the internet, where I mostly build and maintain websites. Changes on the web are instantaneous. But recently, I worked on an iPhone app where this isn't the case. And it got me thinking about release cycles and their impact.",
-			"meta": {
-				"og:image": "/images/release-cycles/og-1200x650.jpg",
-				"twitter:image": "/images/release-cycles/og-200x200.jpg"
-			},
-			"tags": ["frontend", "swift"]
-		},
-		"26": {
-			"slug": "its5-the-spambot",
-			"document": "its5-the-spambot.md",
-			"title": "Oops I created a Spambot",
-			"date": "2014-05-23T06:42-05:00",
-			"shortDescription": "\"Build it and they will come\" doesn't work on the internet, but Twitter provided a world of opportunity for its5.info.",
-			"longDescription": "\"Build it and they will come\" doesn't work on the internet. its5.info needed a strategy. There were several options I knew wouldn't work. But Twitter provided a world of opportunity.",
-			"meta": {
-				"og:image": "/images/its5/og-1200x650.png",
-				"twitter:image": "/images/its5/og-200x200.png"
-			},
-			"tags": ["javascript"]
-		},
-		"25": {
-			"slug": "why-i-built-its5",
-			"document": "why-i-built-its5.md",
-			"title": "Why I Built It: its5.info",
-			"date": "2014-05-20T07:06-05:00",
-			"shortDescription": "It's 5 o'clock somewhere, they say. But where? The story of why I built its5.info",
-			"longDescription": "On a cold day in late March, 2014, someone just trotted out the old phrase, \"It's 5 o'clock somewhere,\" and I immediately wondered where? That's when I had the idea to build a website that tells me where in the world it's 5 pm.",
-			"meta": {
-				"og:image": "/images/its5/og-1200x650.png",
-				"twitter:image": "/images/its5/og-200x200.png"
-			},
-			"tags": ["javascript"]
-		},
-		"24": {
-			"slug": "responsive-images-without-the-cruft",
-			"document": "responsive-images-without-the-cruft.md",
-			"title": "Responsive Images – Without the Cruft",
-			"date": "2014-04-24T13:05-05:00",
-			"shortDescription": "\"That's a lot of markup for an image.\" The primary concern I've heard about responsive images since I wrote my responsive images article is that they're just too verbose. Things just got better. <fig…",
-			"longDescription": "\"That's a lot of markup for an image.\" The primary concern I've heard about responsive images since I wrote my responsive images article is that they're just too verbose. Things just got better. <fig…",
-			"tags": ["frontend"]
-		},
-		"23": {
-			"slug": "git-is-a-communication-tool",
-			"document": "git-is-a-communication-tool.md",
-			"title": "Git is a Communication Tool",
-			"date": "2014-04-15T12:41-05:00",
-			"meta": {
-				"og:image": "/images/communication/og-1200x650.jpg",
-				"twitter:image": "/images/communication/og-200x200.jpg"
-			},
-			"shortDescription": "Communication is important. There are so many ways it happens: face to face, phone, email, text, instant message. It's often not thought of as such, but git is also a tool for communication. I've bee…",
-			"longDescription": "Communication is important. There are so many ways it happens: face to face, phone, email, text, instant message. It's often not thought of as such, but git is also a tool for communication. I've bee…",
-			"tags": ["git"]
-		},
-		"22": {
-			"slug": "playing-2048-with-code",
-			"document": "playing-2048-with-code.md",
-			"title": "Playing 2048 with Code",
-			"date": "2014-04-01T17:13-05:00",
-			"meta": {
-				"og:image": "/images/2048/og-1200x650.png",
-				"twitter:image": "/images/2048/og-200x200.png"
-			},
-			"shortDescription": "What does a good move in 2048 look like? What makes one move any better than another? After getting hooked on 2048 for a while, I decided to program an AI solver for the game, and those are the funda…",
-			"longDescription": "What does a good move in 2048 look like? What makes one move any better than another? After getting hooked on 2048 for a while, I decided to program an AI solver for the game, and those are the funda…",
-			"tags": ["javascript"]
-		},
-		"21": {
-			"slug": "introducing-switch",
-			"document": "introducing-switch.md",
-			"title": "Introducing Switch",
-			"date": "2014-03-13T12:37-05:00",
-			"meta": {
-				"twitter:image": "/images/switch/og-200x200.png"
-			},
-			"shortDescription": "Switch is a simple ExpressionEngine field type for choosing between two or more values. Do you need to mark an entry as featured or standard? Switch does it. Do you have two or three options, but a d…",
-			"longDescription": "Switch is a simple ExpressionEngine field type for choosing between two or more values. Do you need to mark an entry as featured or standard? Switch does it. Do you have two or three options, but a d…"
-		},
-		"20": {
-			"slug": "each-scoping-in-jquery",
-			"document": "each-scoping.md",
-			"title": "Each-Scoping in jQuery",
-			"date": "2014-02-26T13:33-06:00",
-			"shortDescription": "Recently, I started getting away from the jQuery pattern of checking the length of an object before writing code. Instead, I've found myself wrapping my selector in jQuery's <code>each</code> method,…",
-			"longDescription": "Recently, I started getting away from the jQuery pattern of checking the length of an object before writing code. Instead, I've found myself wrapping my selector in jQuery's <code>each</code> method,…",
-			"tags": ["frontend"]
-		},
-		"19": {
-			"slug": "responsive-images-using-picturefill",
-			"document": "responsive-images.md",
-			"title": "Responsive Images using Picturefill",
-			"date": "2014-02-23T14:31-06:00",
-			"shortDescription": "For a recent project I worked on, the mock-up for the home page carousel's images were huge. 1900×696 pixels huge. Personally, I've never used responsive images before (long overdue), but I decided t…",
-			"longDescription": "For a recent project I worked on, the mock-up for the home page carousel's images were huge. 1900×696 pixels huge. Personally, I've never used responsive images before (long overdue), but I decided t…",
-			"tags": ["frontend"]
-		},
-		"18": {
-			"slug": "baby-fox-goes-camping",
-			"document": "baby-fox-goes-camping.md",
-			"title": "Baby Fox Goes Camping",
-			"date": "2014-02-12T18:01-06:00",
-			"meta": {
-				"og:image": "/images/baby-fox/og-1200x650.png",
-				"twitter:image": "/images/baby-fox/og-200x200.png"
-			},
-			"shortDescription": "About a year ago, my wife and I had a crazy idea to write a children's book for our daughter. Even crazier, I decided to illustrate it. Just recently, we finally finished it and had it self-published…",
-			"longDescription": "About a year ago, my wife and I had a crazy idea to write a children's book for our daughter. Even crazier, I decided to illustrate it. Just recently, we finally finished it and had it self-published…"
-		},
-		"17": {
-			"slug": "excluding-myself-from-google-analytics",
-			"document": "excluding-myself.md",
-			"title": "Excluding Myself from Google Analytics",
-			"date": "2014-02-06T16:02-06:00",
-			"shortDescription": "With as many visits as my site gets – and by that, I mean very, very few, actually – any visit that I make to the site can really skew the analytics. On the one hand, I'm my best visitor: I've been t…",
-			"longDescription": "With as many visits as my site gets – and by that, I mean very, very few, actually – any visit that I make to the site can really skew the analytics. On the one hand, I'm my best visitor: I've been t…"
-		},
-		"16": {
-			"slug": "inline-svg-with-jquery",
-			"document": "inline-svg-with-jquery.md",
-			"title": "Inline SVG with jQuery",
-			"date": "2014-01-27T06:55-06:00",
-			"shortDescription": "I've long been a huge admirer of SVG (W3C's Scalable Vector Graphics). As retina screens proliferate, SVG allows web developers to create images that look great on all screens, regardless of the reso…",
-			"longDescription": "I've long been a huge admirer of SVG (W3C's Scalable Vector Graphics). As retina screens proliferate, SVG allows web developers to create images that look great on all screens, regardless of the reso…",
-			"tags": ["frontend"]
-		},
-		"15": {
-			"slug": "more-thoughts-on-mobile-browsing",
-			"document": "more-thoughts-on-mobile-browsing.md",
-			"title": "More Thoughts on Mobile Browsing",
-			"date": "2014-01-15T07:13-06:00",
-			"shortDescription": "Yesterday, I stumbled into a conversation about mobile browsing with Peder Aadahl (of 168 Opportunities fame) and Curtis Jacob (of Hardy Boys Casefiles Encyclopedia fame), and it helped me articulate…",
-			"longDescription": "Yesterday, I stumbled into a conversation about mobile browsing with Peder Aadahl (of 168 Opportunities fame) and Curtis Jacob (of Hardy Boys Casefiles Encyclopedia fame), and it helped me articulate…",
-			"tags": ["frontend"]
-		},
-		"14": {
-			"slug": "mobile-growth-revisited",
-			"document": "mobile-growth-revisited.md",
-			"title": "Mobile Growth, Revisited",
-			"date": "2014-01-09T14:20-06:00",
-			"shortDescription": "I concluded last year that mobile usage is increasing, and it's time to start thinking about your mobile customers. Now, with one in four visitors coming on a mobile or tablet device, and mobile usa…",
-			"longDescription": "I concluded last year that mobile usage is increasing, and it's time to start thinking about your mobile customers. Now, with one in four visitors coming on a mobile or tablet device, and mobile usa…",
-			"tags": ["frontend"]
-		},
-		"13": {
-			"slug": "cache-busting-in-node",
-			"document": "cache-busting-in-node.md",
-			"title": "Cache-Busting in Node.js",
-			"date": "2014-01-07T12:33-06:00",
-			"shortDescription": "Far-future cache headers are important, sure, but how do you bust the cache in Node when an asset changes?",
-			"longDescription": "Far-future cache headers are important for the performance of a site. But they also require the the ability to bust the cache when an asset changes. But how do you do that in Node.js?",
-			"meta": {
-				"og:image": "/images/cache-busting/og-1200x650.jpg",
-				"twitter:image": "/images/cache-busting/og-200x200.jpg"
-			},
-			"tags": ["javascript"]
-		},
-		"12": {
-			"slug": "tracking-bounces-with-google-analytics",
-			"document": "bounced-visitors.md",
-			"title": "Tracking Bounces with Google Analytics",
-			"date": "2014-01-02T12:50-06:00",
-			"shortDescription": "I recently created a landing page for a Score Lab PPC campaign where potential customers either convert or bounce. If a customer converts, hooray!, I throw a little party in my head. But most potenti…",
-			"longDescription": "I recently created a landing page for a Score Lab PPC campaign where potential customers either convert or bounce. If a customer converts, hooray!, I throw a little party in my head. But most potenti…",
-			"tags": ["frontend"]
-		},
-		"11": {
-			"slug": "screen-size-histogram",
-			"document": "screen-sizes.md",
-			"title": "Screen-Size Histogram",
-			"date": "2013-12-11T13:11-06:00",
-			"shortDescription": "This past week, while researching for another post about IE8 and responsive design I'm thinking about writing, I pulled stats from a large number of Google Analytics profiles on all of the widths of …",
-			"longDescription": "This past week, while researching for another post about IE8 and responsive design I'm thinking about writing, I pulled stats from a large number of Google Analytics profiles on all of the widths of …",
-			"tags": ["frontend"]
-		},
-		"10": {
-			"slug": "stick-with-it",
-			"document": "stick-with-it.md",
-			"title": "Stick With It",
-			"date": "2013-11-25T23:38-06:00",
-			"shortDescription": "I still remember it. That \"s\", that little \"s\". In the basement of my childhood home, on an old vanilla computer with one of those monstrous CRT screens, I stared at that C code for hours, but nothin…",
-			"longDescription": "I still remember it. That \"s\", that little \"s\". In the basement of my childhood home, on an old vanilla computer with one of those monstrous CRT screens, I stared at that C code for hours, but nothin…"
-		},
-		"9": {
-			"slug": "five-year-plan",
-			"document": "five-year-plan.md",
-			"title": "Five-Year Plan",
-			"date": "2013-11-22T12:57-06:00",
-			"shortDescription": "So, you're building a new website. And you don't want to just throw your money away, so you'd like your shiny new website to last, what, about 5 years? That sounds reasonable. (Most 5-year-old websit…",
-			"longDescription": "So, you're building a new website. And you don't want to just throw your money away, so you'd like your shiny new website to last, what, about 5 years? That sounds reasonable. (Most 5-year-old websit…",
-			"tags": ["frontend"]
-		},
-		"8": {
-			"slug": "tip-of-the-iceberg",
-			"document": "tip-of-the-iceberg.md",
-			"title": "The Tip of the Iceberg",
-			"date": "2013-11-11T19:24-06:00",
-			"shortDescription": "It's a really simple app. It just does this. It just does that. On occassion a person or a small business will pitch me to build an app – a simple app – for them. But what they don't see is that what…",
-			"longDescription": "It's a really simple app. It just does this. It just does that. On occassion a person or a small business will pitch me to build an app – a simple app – for them. But what they don't see is that what…",
-			"tags": ["swift"]
-		},
-		"7": {
-			"slug": "test-driven-development-for-parents",
-			"document": "tdd-for-parents.md",
-			"title": "Test-Driven Development: for Parents",
-			"date": "2013-10-29T12:49-05:00",
-			"shortDescription": "It's 2:30 am. Somewhere in San Francisco, California, a woman is in a coffee-fueled programming bender. For the past five hours, she's been immersed in her program, unstoppably producing code. She's …",
-			"longDescription": "It's 2:30 am. Somewhere in San Francisco, California, a woman is in a coffee-fueled programming bender. For the past five hours, she's been immersed in her program, unstoppably producing code. She's …"
-		},
-		"6": {
-			"slug": "score-lab-three-tier-architecture",
-			"document": "three-tier-architecture.md",
-			"title": "Score Lab's Three-Tier Architecture",
-			"date": "2013-10-11T12:57-05:00",
-			"shortDescription": "I have always liked the three-tier architecture. In my .NET days, I frequently used .NET Web Services, and then later WCF Services to structure large applications. When I started Score Lab, I started…",
-			"longDescription": "I have always liked the three-tier architecture. In my .NET days, I frequently used .NET Web Services, and then later WCF Services to structure large applications. When I started Score Lab, I started…"
-		},
-		"5": {
-			"slug": "using-ones-own-products",
-			"document": "dogfood.md",
-			"title": "Using One's Own Products",
-			"date": "2013-09-25T12:52-05:00",
-			"shortDescription": "I've been writing my own service, Score Lab, for sports schedules, scoring, and standings for nearly a year now. Just recently, I had the opportunity to use try it out on a real competition, the Clic…",
-			"longDescription": "I've been writing my own service, Score Lab, for sports schedules, scoring, and standings for nearly a year now. Just recently, I had the opportunity to use try it out on a real competition, the Clic…"
-		},
-		"4": {
-			"slug": "small-reusable-components",
-			"document": "small-reusable-components.md",
-			"title": "Small, Reusable Components",
-			"date": "2013-09-20T12:42-05:00",
-			"shortDescription": "I'm a big fan of node.js. Of the many things I like about it, my favorite is the community's focus on small, reusable components. I can't begin to count the number of times I've been happily developi…",
-			"longDescription": "I'm a big fan of node.js. Of the many things I like about it, my favorite is the community's focus on small, reusable components. I can't begin to count the number of times I've been happily developi…",
-			"tags": ["javascript"]
-		},
-		"3": {
-			"slug": "how-i-git",
-			"document": "how-i-git.md",
-			"title": "How I git",
-			"date": "2013-08-21T17:35-05:00",
-			"shortDescription": "It was late afternoon on Friday and I was more than ready to go home after a long week when I opened an email about a regression on a client website. Which, of course, needed to be fixed before the w…",
-			"longDescription": "It was late afternoon on Friday and I was more than ready to go home after a long week when I opened an email about a regression on a client website. Which, of course, needed to be fixed before the w…",
-			"tags": ["git"]
-		},
-		"2": {
-			"slug": "on-progressive-enhancement-responsive-design-and-ie",
-			"document": "on-progressive-enhancement.md",
-			"title": "On Progressive Enhancement, Responsive Design, and IE",
-			"date": "2013-04-03T11:00-06:00",
-			"shortDescription": "\"We have been using a Progressive Enhancement approach much more in relation to our web work. In a nutshell, this means we provide a good looking site on all browsers, then on more modern browsers, ...",
-			"longDescription": "\"We have been using a Progressive Enhancement approach much more in relation to our web work. In a nutshell, this means we provide a good looking site on all browsers, then on more modern browsers, ...",
-			"tags": ["frontend"]
-		},
-		"1": {
-			"slug": "the-shifting-mobile-landscape",
-			"document": "the-shifting-mobile-landscape.md",
-			"title": "The Shifting Mobile Landscape",
-			"date": "2012-06-13T11:00-06:00",
-			"shortDescription": "The mobile user has been typecast.",
-			"longDescription": "The mobile user has been typecast.",
-			"tags": ["frontend"]
-		}
-	}
+  "posts": {
+    "59": {
+      "slug": "complete-novice-wasm-allocator",
+      "document": "complete-novice-wasm-allocator.md",
+      "title": "A complete novice writes Wasm by hand: Adding an Allocator",
+      "date": "2023-11-28T11:30-06:00",
+      "shortDescription": "A complete novice at WebAssembly expands into writing a bump allocator.",
+      "longDescription": "A complete novice at WebAssembly expands into writing a bump allocator.",
+      "tags": ["wasm"]
+    },
+    "58": {
+      "slug": "complete-novice-wasm-parsing-numbers",
+      "document": "complete-novice-wasm-parsing-numbers.md",
+      "title": "A complete novice writes Wasm by hand: Parsing Numbers",
+      "date": "2023-11-21T09:45-06:00",
+      "shortDescription": "A complete novice at WebAssembly tries to write Wasm to solve Advent of Code problems.",
+      "longDescription": "A complete novice at WebAssembly tries to write Wasm to solve Advent of Code problems.",
+      "tags": ["wasm"]
+    },
+    "57": {
+      "slug": "calling-rust-from-ios",
+      "document": "calling-rust-from-ios.md",
+      "title": "Calling Rust from iOS",
+      "date": "2022-11-18T14:45-05:00",
+      "shortDescription": "Rust? Swift? iOS? Well let's give this a try.",
+      "longDescription": "Rust? Swift? iOS? Well let's give this a try.",
+      "tags": ["rust"]
+    },
+    "56": {
+      "slug": "custom-logging-in-rust-using-tracing-part-2",
+      "document": "custom-logging-in-rust-using-tracing-part-2.md",
+      "title": "Custom Logging in Rust Using tracing and tracing-subscriber, part 2",
+      "date": "2021-10-21T13:45-05:00",
+      "shortDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
+      "longDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
+      "tags": ["rust"]
+    },
+    "55": {
+      "slug": "custom-logging-in-rust-using-tracing",
+      "document": "custom-logging-in-rust-using-tracing.md",
+      "title": "Custom Logging in Rust Using tracing and tracing-subscriber",
+      "date": "2021-10-14T10:30-05:00",
+      "shortDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
+      "longDescription": "Learning tracing and tracing subscriber by implementing my own custom logger.",
+      "tags": ["rust"]
+    },
+    "54": {
+      "slug": "twister.sh",
+      "document": "twister-sh.md",
+      "title": "twister.sh",
+      "date": "2020-11-12T14:15-06:00",
+      "shortDescription": "Sometimes, you just need to wash the dishes even though the kids are begging to play Twister.",
+      "longDescription": "Sometimes, you just need to wash the dishes even though the kids are begging to play Twister."
+    },
+    "53": {
+      "slug": "cross-compile-rust-from-arm-to-x86-64",
+      "document": "cross-compile-rust-from-arm-to-x86-64.md",
+      "title": "Cross-compiling Rust from ARM to x86-64",
+      "date": "2020-07-14T10:00-05:00",
+      "shortDescription": "Most people cross-compile from x86-64 to ARM. We're going the other way!",
+      "longDescription": "Most people cross-compile from x86-64 to ARM. We're going the other way!",
+      "tags": ["rust"]
+    },
+    "52": {
+      "slug": "fastly-wasm-on-the-edge",
+      "document": "fastly-wasm-on-the-edge.md",
+      "title": "Deploying WASM to Fastly's Edge",
+      "date": "2019-09-06T10:00-05:00",
+      "shortDescription": "Take Fastly's Terrarium to a new level by deploying from a local build.",
+      "longDescription": "Take Fastly's Terrarium to a new level by deploying from a local build.",
+      "tags": ["rust", "wasm"]
+    },
+    "51": {
+      "slug": "pci-access-without-a-driver",
+      "document": "pci-access-without-a-driver.md",
+      "title": "PCI Access Without a Driver",
+      "date": "2019-07-09T14:45-05:00",
+      "shortDescription": "Poke around in PCI memory space without writing a driver.",
+      "longDescription": "Poke around in PCI memory space without writing a driver."
+    },
+    "50": {
+      "slug": "extending-iterator-trait-in-rust",
+      "document": "extending-iterator-trait-in-rust.md",
+      "title": "Extending the Iterator Trait in Rust",
+      "date": "2018-01-11T07:20-06:00",
+      "shortDescription": "Extending the Iterator trait in Rust by adding a new function for a new type of iterator transformation.",
+      "longDescription": "Extending the Iterator trait in Rust by adding a new function for a new type of iterator transformation.",
+      "tags": ["rust"]
+    },
+    "49": {
+      "slug": "wrapped-iterators-in-rust",
+      "document": "wrapped-iterators-in-rust.md",
+      "title": "Wrapped Iterators in Rust",
+      "date": "2018-01-11T07:10-06:00",
+      "shortDescription": "About the design of iterators in Rust (which I like) and writing a new one.",
+      "longDescription": "About the design of iterators in Rust (which I like) and writing a new one.",
+      "tags": ["rust"]
+    },
+    "48": {
+      "slug": "practical-node-performance",
+      "document": "practical-node-performance.md",
+      "title": "Practical Node Performance",
+      "date": "2017-08-03T09:11-05:00",
+      "shortDescription": "What, practically, should we do with information about Node and V8's continual performance improvements.",
+      "longDescription": "What, practically, should we do with information about Node and V8's continual performance improvements.",
+      "tags": ["javascript"]
+    },
+    "47": {
+      "slug": "async-await",
+      "document": "async-await.md",
+      "title": "How async and await make code clearer",
+      "date": "2017-06-22T07:57-05:00",
+      "shortDescription": "Javascript's async and await have landed, and can significantly increase the readability of code.",
+      "longDescription": "Javascript's async and await are finally here, and they aren't just a bit of syntactic sugar. They can significantly increase the readability of code.",
+      "tags": ["javascript"]
+    },
+    "46": {
+      "slug": "load-testing",
+      "document": "load-testing.md",
+      "title": "Load Testing with Docker and ECS",
+      "date": "2017-06-15T12:00-05:00",
+      "shortDescription": "Generating load on a service is hard. Docker and ECS makes it easier.",
+      "longDescription": "Generating load on a service is hard. Docker and ECS makes it easier."
+    },
+    "45": {
+      "slug": "yaml-configuration",
+      "document": "yaml-configuration.md",
+      "title": "YAML for Configuration",
+      "date": "2016-11-08T10:13-06:00",
+      "shortDescription": "JSON is good at a lot of things. Just not configuration files.",
+      "longDescription": "JSON is good at a lot of things, which led me to think it's great for configuration files. But it's not. YAML is the way to go.",
+      "meta": {
+        "og:image": "/images/yaml-configuration/og-400x400.png",
+        "twitter:image": "/images/yaml-configuration/og-200x200.png"
+      }
+    },
+    "44": {
+      "slug": "rise-of-metadata",
+      "document": "rise-of-metadata.md",
+      "title": "The Rise of Metadata",
+      "date": "2016-09-14T08:08-05:00",
+      "shortDescription": "Facebook's using it. Twitter too. Slack. And, now iOS 10. The metadata on your website is getting more important.",
+      "longDescription": "Facebook's using it. Twitter too. Slack. And, now iOS 10. The metadata on your website is getting more important.",
+      "meta": {
+        "og:image": "/images/rise-of-metadata/og-512x512.png",
+        "twitter:image": "/images/rise-of-metadata/og-200x200.png"
+      },
+      "tags": ["frontend"]
+    },
+    "43": {
+      "slug": "vagrant-ansible-ubuntu-16",
+      "document": "vagrant-ansible-ubuntu-16.md",
+      "title": "Using Ansible and Vagrant to Launch Ubuntu 16.04",
+      "date": "2016-08-16T15:37-05:00",
+      "shortDescription": "Using Ansible to provision a Vagrant box, even if Python isn't installed.",
+      "longDescription": "I've been impressed with Vagrant and with Ansible, but my provisions always took an extra step on Ubuntu 16.04. How to get Vagrant to install Python before provisioning the box."
+    },
+    "42": {
+      "slug": "decoupling-transactional-email",
+      "document": "decoupling-transactional-email.md",
+      "title": "Decoupling Transactional Email with RabbitMQ",
+      "date": "2015-12-02T12:54-06:00",
+      "shortDescription": "Using RabbitMQ to separate application logic from transactional email logic.",
+      "longDescription": "Using RabbitMQ to separate application logic from transactional email logic.",
+      "meta": {
+        "og:image": "/images/decoupling-transactional-email/og-1200x630.png",
+        "twitter:image": "/images/decoupling-transactional-email/og-200x200.png"
+      }
+    },
+    "41": {
+      "slug": "ubuntu-letsencrypt-nginx-http2",
+      "document": "ubuntu-letsencrypt-nginx-http2.md",
+      "title": "Serving HTTP/2 with nginx on Ubuntu 14.04",
+      "date": "2015-11-12T12:28-06:00",
+      "shortDescription": "How I was able to get nginx serving HTTP/2 and a Let's Encrypt certificate on my Ubuntu 14.04 server.",
+      "longDescription": "How I was able to get nginx serving HTTP/2 and a Let's Encrypt certificate on my Ubuntu 14.04 server.",
+      "meta": {
+        "og:image": "/images/http2/og-1200x650.png",
+        "twitter:image": "/images/http2/og-200x200.png"
+      }
+    },
+    "40": {
+      "slug": "better-user-agent",
+      "document": "better-user-agent.md",
+      "title": "A Better User Agent for NSURLRequest",
+      "date": "2015-10-09T06:47-05:00",
+      "shortDescription": "The default user agent header set by NSURLRequest is awful. Do yourself a favor and change it.",
+      "longDescription": "The default user agent header set by NSURLRequest is awful. Do yourself a favor and change it.",
+      "tags": ["swift"]
+    },
+    "39": {
+      "slug": "four-digit-years",
+      "document": "four-digit-years.md",
+      "title": "Short, Localized Dates and Four-Digit Years",
+      "date": "2015-09-16T12:03-05:00",
+      "shortDescription": "Hacking PHP's IntlDateFormatter::SHORT to render all locales with 4-digit years.",
+      "longDescription": "PHP's IntlDateFormatter::SHORT renders some locales with 2-digit years. I explore how to hack it to render all locales with 4-digit years.",
+      "tags": ["php"]
+    },
+    "38": {
+      "slug": "freeform-notifications-in-git",
+      "document": "freeform-notifications-in-git.md",
+      "title": "Tracking Freeform Notifications in Git",
+      "date": "2015-06-08T12:45-05:00",
+      "shortDescription": "How I embed ExpressionEngine templates into a Freeform Notification templates so they can be tracked in git.",
+      "longDescription": "How I embed ExpressionEngine templates into a Freeform Notification templates so they can be tracked in git.",
+      "tags": ["git"]
+    },
+    "37": {
+      "slug": "upstart",
+      "document": "upstart.md",
+      "title": "Node, Upstart, and Ubuntu 14.04",
+      "date": "2015-05-18T06:54-05:00",
+      "shortDescription": "An upstart configuration for node on Ubuntu 14.04 that uses navtive options rather than resorting to \"script\".",
+      "longDescription": "An upstart configuration for node on Ubuntu 14.04 that uses navtive options rather than resorting to \"script\".",
+      "tags": ["javascript"]
+    },
+    "36": {
+      "slug": "configuration-is-not-code",
+      "document": "configuration-is-not-code.md",
+      "title": "Configuration is Not Code",
+      "date": "2015-02-13T07:08-06:00",
+      "shortDescription": "Configuration does not belong in the database. We've known this for years. But configuration also does not belong in git.",
+      "longDescription": "Configuration does not belong in the database. We've known this for years. But configuration also does not belong in git.",
+      "tags": ["git"]
+    },
+    "35": {
+      "slug": "stash-layouts",
+      "document": "stash-layouts.md",
+      "title": "Stash Layouts",
+      "date": "2015-02-05T06:04-06:00",
+      "shortDescription": "Stash is a powerful tool for templating in ExpressionEngine. Used the right way, it can improve the readability of templates.",
+      "longDescription": "Stash is a powerful tool for templating in ExpressionEngine. Used the right way, it can improve the readability of templates. Used the wrong way, it can make a mess of things."
+    },
+    "34": {
+      "slug": "above-the-fold-breaking-the-rules",
+      "document": "above-the-fold-breaking-the-rules.md",
+      "title": "Above the Fold, Breaking the Rules",
+      "date": "2015-01-31T14:22-06:00",
+      "shortDescription": "It's been hammered over and over that, on the web, there is no fold. And rightly so. But lets break the rules and make one anyway.",
+      "longDescription": "It's been hammered over and over that, on the web, there is no fold. And rightly so. But lets break the rules and make one anyway.",
+      "meta": {
+        "og:image": "/images/above-the-fold/og-1200x650.jpg",
+        "twitter:image": "/images/above-the-fold/og-200x200.jpg"
+      },
+      "tags": ["frontend"]
+    },
+    "33": {
+      "slug": "from-trello-to-twitter",
+      "document": "from-trello-to-twitter.md",
+      "title": "From Trello to Twitter",
+      "date": "2015-01-23T12:19-06:00",
+      "shortDescription": "How I use Trello to organize my upcoming Twitter tweets.",
+      "longDescription": "After reading \"Trello as a CMS,\" I was inspired to automate my tweets from a Trello board.",
+      "meta": {
+        "og:image": "/images/from-trello-to-twitter/og-1200x650.jpg",
+        "twitter:image": "/images/from-trello-to-twitter/og-200x200.png"
+      }
+    },
+    "32": {
+      "slug": "the-plugin-your-first-expressionengine-addon",
+      "document": "first-plugin.md",
+      "title": "The Plugin: Your First ExpressionEngine Add-On",
+      "date": "2015-01-18T14:01-06:00",
+      "shortDescription": "Writing an ExpressionEngine Add-On can be daunting. But the Plugin is a no-nonsense, easy place to start.",
+      "longDescription": "Writing an ExpressionEngine Add-On can be daunting. But the Plugin is a no-nonsense, easy place to start.",
+      "meta": {
+        "og:image": "/images/first-plugin/og-1200x650.jpg",
+        "twitter:image": "/images/first-plugin/og-200x200.jpg"
+      }
+    },
+    "31": {
+      "slug": "cache-busting-in-expressionengine",
+      "document": "cache-busting-in-expressionengine.md",
+      "title": "Cache-Busting CSS and JavaScript in ExpressionEngine",
+      "date": "2014-11-17T17:04-06:00",
+      "shortDescription": "Far-future cache headers are important, sure, but how do you bust the cache in ExpressionEngine when an asset changes?",
+      "longDescription": "Far-future cache headers are important for the performance of a site. But they also require the the ability to bust the cache when an asset changes. But how do you do that in ExpressionEngine?",
+      "meta": {
+        "og:image": "/images/cache-busting/og-1200x650.jpg",
+        "twitter:image": "/images/cache-busting/og-200x200.jpg"
+      }
+    },
+    "30": {
+      "slug": "introducing-max-length",
+      "document": "introducing-max-length.md",
+      "title": "Introducing Max Length",
+      "date": "2014-09-05T12:46-05:00",
+      "shortDescription": "Max Length is an accessory that provides a small, unobtrusive indicator for how many characters an input has left before reaching its maximum length.",
+      "longDescription": "Max Length is an accessory that provides a small, unobtrusive indicator for how many characters an input has left before reaching its maximum length."
+    },
+    "29": {
+      "slug": "on-development-decisions",
+      "document": "on-development-decisions.md",
+      "title": "On Development Decisions",
+      "date": "2014-08-11T07:18-05:00",
+      "shortDescription": "Black and white. Good and bad. The right way and the wrong way. It would be great if web development fell into nice neat little categories. It doesn't.",
+      "longDescription": "Black and white. Good and bad. The right way and the wrong way. It would be great if web development fell into nice neat little categories. It doesn't.",
+      "meta": {
+        "og:image": "/images/on-development-decisions/og-1200x650.png",
+        "twitter:image": "/images/on-development-decisions/og-200x200.png"
+      }
+    },
+    "28": {
+      "slug": "squashing-commits",
+      "document": "squashing-commits.md",
+      "title": "Squashing Commits",
+      "date": "2014-07-03T07:19-05:00",
+      "shortDescription": "Your git history can read like a rambling stream-of-consciousness tome or a sharp-witted novella. Do us all a favor and squash your commits.",
+      "longDescription": "Your git history is like a book. It can read like a rambling stream-of-consciousness tome. Or you can squash your commits to read like a sharp-witted novella. Do us all a favor and squash your commits.",
+      "tags": ["git"]
+    },
+    "27": {
+      "slug": "release-cycles",
+      "document": "release-cycles.md",
+      "title": "Release Cycles",
+      "date": "2014-06-20T12:28-05:00",
+      "shortDescription": "Changes on the web are instantaneous. Changes to an iPhone app are not. How that difference affects the design of an app.",
+      "longDescription": "I work on the internet, where I mostly build and maintain websites. Changes on the web are instantaneous. But recently, I worked on an iPhone app where this isn't the case. And it got me thinking about release cycles and their impact.",
+      "meta": {
+        "og:image": "/images/release-cycles/og-1200x650.jpg",
+        "twitter:image": "/images/release-cycles/og-200x200.jpg"
+      },
+      "tags": ["frontend", "swift"]
+    },
+    "26": {
+      "slug": "its5-the-spambot",
+      "document": "its5-the-spambot.md",
+      "title": "Oops I created a Spambot",
+      "date": "2014-05-23T06:42-05:00",
+      "shortDescription": "\"Build it and they will come\" doesn't work on the internet, but Twitter provided a world of opportunity for its5.info.",
+      "longDescription": "\"Build it and they will come\" doesn't work on the internet. its5.info needed a strategy. There were several options I knew wouldn't work. But Twitter provided a world of opportunity.",
+      "meta": {
+        "og:image": "/images/its5/og-1200x650.png",
+        "twitter:image": "/images/its5/og-200x200.png"
+      },
+      "tags": ["javascript"]
+    },
+    "25": {
+      "slug": "why-i-built-its5",
+      "document": "why-i-built-its5.md",
+      "title": "Why I Built It: its5.info",
+      "date": "2014-05-20T07:06-05:00",
+      "shortDescription": "It's 5 o'clock somewhere, they say. But where? The story of why I built its5.info",
+      "longDescription": "On a cold day in late March, 2014, someone just trotted out the old phrase, \"It's 5 o'clock somewhere,\" and I immediately wondered where? That's when I had the idea to build a website that tells me where in the world it's 5 pm.",
+      "meta": {
+        "og:image": "/images/its5/og-1200x650.png",
+        "twitter:image": "/images/its5/og-200x200.png"
+      },
+      "tags": ["javascript"]
+    },
+    "24": {
+      "slug": "responsive-images-without-the-cruft",
+      "document": "responsive-images-without-the-cruft.md",
+      "title": "Responsive Images – Without the Cruft",
+      "date": "2014-04-24T13:05-05:00",
+      "shortDescription": "\"That's a lot of markup for an image.\" The primary concern I've heard about responsive images since I wrote my responsive images article is that they're just too verbose. Things just got better. <fig…",
+      "longDescription": "\"That's a lot of markup for an image.\" The primary concern I've heard about responsive images since I wrote my responsive images article is that they're just too verbose. Things just got better. <fig…",
+      "tags": ["frontend"]
+    },
+    "23": {
+      "slug": "git-is-a-communication-tool",
+      "document": "git-is-a-communication-tool.md",
+      "title": "Git is a Communication Tool",
+      "date": "2014-04-15T12:41-05:00",
+      "meta": {
+        "og:image": "/images/communication/og-1200x650.jpg",
+        "twitter:image": "/images/communication/og-200x200.jpg"
+      },
+      "shortDescription": "Communication is important. There are so many ways it happens: face to face, phone, email, text, instant message. It's often not thought of as such, but git is also a tool for communication. I've bee…",
+      "longDescription": "Communication is important. There are so many ways it happens: face to face, phone, email, text, instant message. It's often not thought of as such, but git is also a tool for communication. I've bee…",
+      "tags": ["git"]
+    },
+    "22": {
+      "slug": "playing-2048-with-code",
+      "document": "playing-2048-with-code.md",
+      "title": "Playing 2048 with Code",
+      "date": "2014-04-01T17:13-05:00",
+      "meta": {
+        "og:image": "/images/2048/og-1200x650.png",
+        "twitter:image": "/images/2048/og-200x200.png"
+      },
+      "shortDescription": "What does a good move in 2048 look like? What makes one move any better than another? After getting hooked on 2048 for a while, I decided to program an AI solver for the game, and those are the funda…",
+      "longDescription": "What does a good move in 2048 look like? What makes one move any better than another? After getting hooked on 2048 for a while, I decided to program an AI solver for the game, and those are the funda…",
+      "tags": ["javascript"]
+    },
+    "21": {
+      "slug": "introducing-switch",
+      "document": "introducing-switch.md",
+      "title": "Introducing Switch",
+      "date": "2014-03-13T12:37-05:00",
+      "meta": {
+        "twitter:image": "/images/switch/og-200x200.png"
+      },
+      "shortDescription": "Switch is a simple ExpressionEngine field type for choosing between two or more values. Do you need to mark an entry as featured or standard? Switch does it. Do you have two or three options, but a d…",
+      "longDescription": "Switch is a simple ExpressionEngine field type for choosing between two or more values. Do you need to mark an entry as featured or standard? Switch does it. Do you have two or three options, but a d…"
+    },
+    "20": {
+      "slug": "each-scoping-in-jquery",
+      "document": "each-scoping.md",
+      "title": "Each-Scoping in jQuery",
+      "date": "2014-02-26T13:33-06:00",
+      "shortDescription": "Recently, I started getting away from the jQuery pattern of checking the length of an object before writing code. Instead, I've found myself wrapping my selector in jQuery's <code>each</code> method,…",
+      "longDescription": "Recently, I started getting away from the jQuery pattern of checking the length of an object before writing code. Instead, I've found myself wrapping my selector in jQuery's <code>each</code> method,…",
+      "tags": ["frontend"]
+    },
+    "19": {
+      "slug": "responsive-images-using-picturefill",
+      "document": "responsive-images.md",
+      "title": "Responsive Images using Picturefill",
+      "date": "2014-02-23T14:31-06:00",
+      "shortDescription": "For a recent project I worked on, the mock-up for the home page carousel's images were huge. 1900×696 pixels huge. Personally, I've never used responsive images before (long overdue), but I decided t…",
+      "longDescription": "For a recent project I worked on, the mock-up for the home page carousel's images were huge. 1900×696 pixels huge. Personally, I've never used responsive images before (long overdue), but I decided t…",
+      "tags": ["frontend"]
+    },
+    "18": {
+      "slug": "baby-fox-goes-camping",
+      "document": "baby-fox-goes-camping.md",
+      "title": "Baby Fox Goes Camping",
+      "date": "2014-02-12T18:01-06:00",
+      "meta": {
+        "og:image": "/images/baby-fox/og-1200x650.png",
+        "twitter:image": "/images/baby-fox/og-200x200.png"
+      },
+      "shortDescription": "About a year ago, my wife and I had a crazy idea to write a children's book for our daughter. Even crazier, I decided to illustrate it. Just recently, we finally finished it and had it self-published…",
+      "longDescription": "About a year ago, my wife and I had a crazy idea to write a children's book for our daughter. Even crazier, I decided to illustrate it. Just recently, we finally finished it and had it self-published…"
+    },
+    "17": {
+      "slug": "excluding-myself-from-google-analytics",
+      "document": "excluding-myself.md",
+      "title": "Excluding Myself from Google Analytics",
+      "date": "2014-02-06T16:02-06:00",
+      "shortDescription": "With as many visits as my site gets – and by that, I mean very, very few, actually – any visit that I make to the site can really skew the analytics. On the one hand, I'm my best visitor: I've been t…",
+      "longDescription": "With as many visits as my site gets – and by that, I mean very, very few, actually – any visit that I make to the site can really skew the analytics. On the one hand, I'm my best visitor: I've been t…"
+    },
+    "16": {
+      "slug": "inline-svg-with-jquery",
+      "document": "inline-svg-with-jquery.md",
+      "title": "Inline SVG with jQuery",
+      "date": "2014-01-27T06:55-06:00",
+      "shortDescription": "I've long been a huge admirer of SVG (W3C's Scalable Vector Graphics). As retina screens proliferate, SVG allows web developers to create images that look great on all screens, regardless of the reso…",
+      "longDescription": "I've long been a huge admirer of SVG (W3C's Scalable Vector Graphics). As retina screens proliferate, SVG allows web developers to create images that look great on all screens, regardless of the reso…",
+      "tags": ["frontend"]
+    },
+    "15": {
+      "slug": "more-thoughts-on-mobile-browsing",
+      "document": "more-thoughts-on-mobile-browsing.md",
+      "title": "More Thoughts on Mobile Browsing",
+      "date": "2014-01-15T07:13-06:00",
+      "shortDescription": "Yesterday, I stumbled into a conversation about mobile browsing with Peder Aadahl (of 168 Opportunities fame) and Curtis Jacob (of Hardy Boys Casefiles Encyclopedia fame), and it helped me articulate…",
+      "longDescription": "Yesterday, I stumbled into a conversation about mobile browsing with Peder Aadahl (of 168 Opportunities fame) and Curtis Jacob (of Hardy Boys Casefiles Encyclopedia fame), and it helped me articulate…",
+      "tags": ["frontend"]
+    },
+    "14": {
+      "slug": "mobile-growth-revisited",
+      "document": "mobile-growth-revisited.md",
+      "title": "Mobile Growth, Revisited",
+      "date": "2014-01-09T14:20-06:00",
+      "shortDescription": "I concluded last year that mobile usage is increasing, and it's time to start thinking about your mobile customers. Now, with one in four visitors coming on a mobile or tablet device, and mobile usa…",
+      "longDescription": "I concluded last year that mobile usage is increasing, and it's time to start thinking about your mobile customers. Now, with one in four visitors coming on a mobile or tablet device, and mobile usa…",
+      "tags": ["frontend"]
+    },
+    "13": {
+      "slug": "cache-busting-in-node",
+      "document": "cache-busting-in-node.md",
+      "title": "Cache-Busting in Node.js",
+      "date": "2014-01-07T12:33-06:00",
+      "shortDescription": "Far-future cache headers are important, sure, but how do you bust the cache in Node when an asset changes?",
+      "longDescription": "Far-future cache headers are important for the performance of a site. But they also require the the ability to bust the cache when an asset changes. But how do you do that in Node.js?",
+      "meta": {
+        "og:image": "/images/cache-busting/og-1200x650.jpg",
+        "twitter:image": "/images/cache-busting/og-200x200.jpg"
+      },
+      "tags": ["javascript"]
+    },
+    "12": {
+      "slug": "tracking-bounces-with-google-analytics",
+      "document": "bounced-visitors.md",
+      "title": "Tracking Bounces with Google Analytics",
+      "date": "2014-01-02T12:50-06:00",
+      "shortDescription": "I recently created a landing page for a Score Lab PPC campaign where potential customers either convert or bounce. If a customer converts, hooray!, I throw a little party in my head. But most potenti…",
+      "longDescription": "I recently created a landing page for a Score Lab PPC campaign where potential customers either convert or bounce. If a customer converts, hooray!, I throw a little party in my head. But most potenti…",
+      "tags": ["frontend"]
+    },
+    "11": {
+      "slug": "screen-size-histogram",
+      "document": "screen-sizes.md",
+      "title": "Screen-Size Histogram",
+      "date": "2013-12-11T13:11-06:00",
+      "shortDescription": "This past week, while researching for another post about IE8 and responsive design I'm thinking about writing, I pulled stats from a large number of Google Analytics profiles on all of the widths of …",
+      "longDescription": "This past week, while researching for another post about IE8 and responsive design I'm thinking about writing, I pulled stats from a large number of Google Analytics profiles on all of the widths of …",
+      "tags": ["frontend"]
+    },
+    "10": {
+      "slug": "stick-with-it",
+      "document": "stick-with-it.md",
+      "title": "Stick With It",
+      "date": "2013-11-25T23:38-06:00",
+      "shortDescription": "I still remember it. That \"s\", that little \"s\". In the basement of my childhood home, on an old vanilla computer with one of those monstrous CRT screens, I stared at that C code for hours, but nothin…",
+      "longDescription": "I still remember it. That \"s\", that little \"s\". In the basement of my childhood home, on an old vanilla computer with one of those monstrous CRT screens, I stared at that C code for hours, but nothin…"
+    },
+    "9": {
+      "slug": "five-year-plan",
+      "document": "five-year-plan.md",
+      "title": "Five-Year Plan",
+      "date": "2013-11-22T12:57-06:00",
+      "shortDescription": "So, you're building a new website. And you don't want to just throw your money away, so you'd like your shiny new website to last, what, about 5 years? That sounds reasonable. (Most 5-year-old websit…",
+      "longDescription": "So, you're building a new website. And you don't want to just throw your money away, so you'd like your shiny new website to last, what, about 5 years? That sounds reasonable. (Most 5-year-old websit…",
+      "tags": ["frontend"]
+    },
+    "8": {
+      "slug": "tip-of-the-iceberg",
+      "document": "tip-of-the-iceberg.md",
+      "title": "The Tip of the Iceberg",
+      "date": "2013-11-11T19:24-06:00",
+      "shortDescription": "It's a really simple app. It just does this. It just does that. On occassion a person or a small business will pitch me to build an app – a simple app – for them. But what they don't see is that what…",
+      "longDescription": "It's a really simple app. It just does this. It just does that. On occassion a person or a small business will pitch me to build an app – a simple app – for them. But what they don't see is that what…",
+      "tags": ["swift"]
+    },
+    "7": {
+      "slug": "test-driven-development-for-parents",
+      "document": "tdd-for-parents.md",
+      "title": "Test-Driven Development: for Parents",
+      "date": "2013-10-29T12:49-05:00",
+      "shortDescription": "It's 2:30 am. Somewhere in San Francisco, California, a woman is in a coffee-fueled programming bender. For the past five hours, she's been immersed in her program, unstoppably producing code. She's …",
+      "longDescription": "It's 2:30 am. Somewhere in San Francisco, California, a woman is in a coffee-fueled programming bender. For the past five hours, she's been immersed in her program, unstoppably producing code. She's …"
+    },
+    "6": {
+      "slug": "score-lab-three-tier-architecture",
+      "document": "three-tier-architecture.md",
+      "title": "Score Lab's Three-Tier Architecture",
+      "date": "2013-10-11T12:57-05:00",
+      "shortDescription": "I have always liked the three-tier architecture. In my .NET days, I frequently used .NET Web Services, and then later WCF Services to structure large applications. When I started Score Lab, I started…",
+      "longDescription": "I have always liked the three-tier architecture. In my .NET days, I frequently used .NET Web Services, and then later WCF Services to structure large applications. When I started Score Lab, I started…"
+    },
+    "5": {
+      "slug": "using-ones-own-products",
+      "document": "dogfood.md",
+      "title": "Using One's Own Products",
+      "date": "2013-09-25T12:52-05:00",
+      "shortDescription": "I've been writing my own service, Score Lab, for sports schedules, scoring, and standings for nearly a year now. Just recently, I had the opportunity to use try it out on a real competition, the Clic…",
+      "longDescription": "I've been writing my own service, Score Lab, for sports schedules, scoring, and standings for nearly a year now. Just recently, I had the opportunity to use try it out on a real competition, the Clic…"
+    },
+    "4": {
+      "slug": "small-reusable-components",
+      "document": "small-reusable-components.md",
+      "title": "Small, Reusable Components",
+      "date": "2013-09-20T12:42-05:00",
+      "shortDescription": "I'm a big fan of node.js. Of the many things I like about it, my favorite is the community's focus on small, reusable components. I can't begin to count the number of times I've been happily developi…",
+      "longDescription": "I'm a big fan of node.js. Of the many things I like about it, my favorite is the community's focus on small, reusable components. I can't begin to count the number of times I've been happily developi…",
+      "tags": ["javascript"]
+    },
+    "3": {
+      "slug": "how-i-git",
+      "document": "how-i-git.md",
+      "title": "How I git",
+      "date": "2013-08-21T17:35-05:00",
+      "shortDescription": "It was late afternoon on Friday and I was more than ready to go home after a long week when I opened an email about a regression on a client website. Which, of course, needed to be fixed before the w…",
+      "longDescription": "It was late afternoon on Friday and I was more than ready to go home after a long week when I opened an email about a regression on a client website. Which, of course, needed to be fixed before the w…",
+      "tags": ["git"]
+    },
+    "2": {
+      "slug": "on-progressive-enhancement-responsive-design-and-ie",
+      "document": "on-progressive-enhancement.md",
+      "title": "On Progressive Enhancement, Responsive Design, and IE",
+      "date": "2013-04-03T11:00-06:00",
+      "shortDescription": "\"We have been using a Progressive Enhancement approach much more in relation to our web work. In a nutshell, this means we provide a good looking site on all browsers, then on more modern browsers, ...",
+      "longDescription": "\"We have been using a Progressive Enhancement approach much more in relation to our web work. In a nutshell, this means we provide a good looking site on all browsers, then on more modern browsers, ...",
+      "tags": ["frontend"]
+    },
+    "1": {
+      "slug": "the-shifting-mobile-landscape",
+      "document": "the-shifting-mobile-landscape.md",
+      "title": "The Shifting Mobile Landscape",
+      "date": "2012-06-13T11:00-06:00",
+      "shortDescription": "The mobile user has been typecast.",
+      "longDescription": "The mobile user has been typecast.",
+      "tags": ["frontend"]
+    }
+  }
 }
