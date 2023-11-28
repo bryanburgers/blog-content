@@ -1,5 +1,14 @@
 {
 	"posts": {
+		"58": {
+			"slug": "complete-novice-wasm-parsing-numbers",
+			"document": "complete-novice-wasm-parsing-numbers.md",
+			"title": "A complete novice writes Wasm by hand: Parsing Numbers",
+			"date": "2023-11-21T09:45-06:00",
+			"shortDescription": "A complete novice at WebAssembly tries to write Wasm to solve Advent of Code problems.",
+			"longDescription": "A complete novice at WebAssembly tries to write Wasm to solve Advent of Code problems.",
+			"tags": ["wasm"]
+		},
 		"57": {
 			"slug": "calling-rust-from-ios",
 			"document": "calling-rust-from-ios.md",
